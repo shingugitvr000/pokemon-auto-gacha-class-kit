@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-15T18:55:05.234Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-15T22:04:28.971Z",
   "lastPull": {
-    "id": 142,
-    "name": "aerodactyl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "rock",
-      "flying"
+      "rock"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-09-15T18:55:05.234Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-15T22:04:28.971Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-15T22:04:28.971Z"
+    },
     {
       "id": 142,
       "name": "aerodactyl",
@@ -100,6 +110,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T14:59:27.108Z",
       "lastPulledAt": "2026-09-15T14:59:27.108Z"
+    },
+    "409": {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-15T22:04:28.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-15T22:04:28.971Z",
+      "lastPulledAt": "2026-09-15T22:04:28.971Z"
     }
   },
   "typeTotals": {
