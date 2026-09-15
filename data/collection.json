@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-15T14:59:27.108Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-15T15:00:52.770Z",
   "lastPull": {
-    "id": 267,
-    "name": "beautifly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": [
-      "bug",
+      "normal",
       "flying"
     ],
-    "totalStats": 395,
+    "totalStats": 349,
     "grade": "N",
-    "pulledAt": "2026-09-15T14:59:27.108Z"
+    "pulledAt": "2026-09-15T15:00:52.770Z"
   },
   "pulls": [
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-09-15T15:00:52.770Z"
+    },
     {
       "id": 267,
       "name": "beautifly",
@@ -29,6 +41,22 @@
     }
   ],
   "pokemon": {
+    "17": {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-09-15T15:00:52.770Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-15T15:00:52.770Z",
+      "lastPulledAt": "2026-09-15T15:00:52.770Z"
+    },
     "267": {
       "id": 267,
       "name": "beautifly",
