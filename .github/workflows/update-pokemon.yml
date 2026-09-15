@@ -1,0 +1,62 @@
+name: Pokemon Auto Gacha
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pokemon-gacha
+  cancel-in-progress: false
+
+jobs:
+  pull-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 1. 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: 2. 포켓몬 한 마리 뽑기
+        id: pull
+        shell: bash
+        run: |
+          node scripts/pull-pokemon.mjs | tee result.txt
+          grep '^RESULT_' result.txt >> "$GITHUB_OUTPUT"
+
+      - name: 3. 변경된 JSON과 README 자동 커밋
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/collection.json README.md
+          git commit -m "🎮 Auto Pull: ${{ steps.pull.outputs.RESULT_NAME }} [${{ steps.pull.outputs.RESULT_GRADE }}]"
+          git push
+
+      # Actions가 만든 커밋은 별도 Pages 빌드를 다시 호출하지 않을 수 있어
+      # 같은 Workflow 안에서 현재 파일을 곧바로 배포합니다.
+      - name: 4. GitHub Pages 설정
+        uses: actions/configure-pages@v5
+
+      - name: 5. 배포 폴더 준비
+        run: |
+          mkdir _site
+          cp index.html styles.css app.js _site/
+          cp -r data _site/data
+
+      - name: 6. 사이트 파일 업로드
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "_site"
+
+      - name: 7. GitHub Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
