@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T09:51:57.761Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T14:47:04.780Z",
   "lastPull": {
-    "id": 806,
-    "name": "blacephalon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "id": 625,
+    "name": "bisharp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
     "types": [
-      "fire",
-      "ghost"
+      "dark",
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T09:51:57.761Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-16T14:47:04.780Z"
   },
   "pulls": [
+    {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-16T14:47:04.780Z"
+    },
     {
       "id": 806,
       "name": "blacephalon",
@@ -175,6 +187,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T22:04:28.971Z",
       "lastPulledAt": "2026-09-15T22:04:28.971Z"
+    },
+    "625": {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-16T14:47:04.780Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T14:47:04.780Z",
+      "lastPulledAt": "2026-09-16T14:47:04.780Z"
     },
     "739": {
       "id": 739,
