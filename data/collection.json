@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T00:17:23.511Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T04:59:29.468Z",
   "lastPull": {
-    "id": 739,
-    "name": "crabrawler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "id": 252,
+    "name": "treecko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
     "types": [
-      "fighting"
+      "grass"
     ],
-    "totalStats": 338,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-09-16T00:17:23.511Z"
+    "pulledAt": "2026-09-16T04:59:29.468Z"
   },
   "pulls": [
+    {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T04:59:29.468Z"
+    },
     {
       "id": 739,
       "name": "crabrawler",
@@ -105,6 +116,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T18:55:05.234Z",
       "lastPulledAt": "2026-09-15T18:55:05.234Z"
+    },
+    "252": {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T04:59:29.468Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T04:59:29.468Z",
+      "lastPulledAt": "2026-09-16T04:59:29.468Z"
     },
     "267": {
       "id": 267,
