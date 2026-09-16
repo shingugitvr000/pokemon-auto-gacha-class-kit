@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-15T22:04:28.971Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T00:17:23.511Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 739,
+    "name": "crabrawler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
     "types": [
-      "rock"
+      "fighting"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-15T22:04:28.971Z"
+    "totalStats": 338,
+    "grade": "N",
+    "pulledAt": "2026-09-16T00:17:23.511Z"
   },
   "pulls": [
+    {
+      "id": 739,
+      "name": "crabrawler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 338,
+      "grade": "N",
+      "pulledAt": "2026-09-16T00:17:23.511Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -125,6 +136,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T22:04:28.971Z",
       "lastPulledAt": "2026-09-15T22:04:28.971Z"
+    },
+    "739": {
+      "id": 739,
+      "name": "crabrawler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 338,
+      "grade": "N",
+      "pulledAt": "2026-09-16T00:17:23.511Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T00:17:23.511Z",
+      "lastPulledAt": "2026-09-16T00:17:23.511Z"
     }
   },
   "typeTotals": {
