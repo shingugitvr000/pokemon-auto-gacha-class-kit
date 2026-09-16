@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T14:47:04.780Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T18:29:57.422Z",
   "lastPull": {
-    "id": 625,
-    "name": "bisharp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "id": 306,
+    "name": "aggron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
     "types": [
-      "dark",
-      "steel"
+      "steel",
+      "rock"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-16T14:47:04.780Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T18:29:57.422Z"
   },
   "pulls": [
+    {
+      "id": 306,
+      "name": "aggron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T18:29:57.422Z"
+    },
     {
       "id": 625,
       "name": "bisharp",
@@ -172,6 +184,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T14:59:27.108Z",
       "lastPulledAt": "2026-09-15T14:59:27.108Z"
+    },
+    "306": {
+      "id": 306,
+      "name": "aggron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T18:29:57.422Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T18:29:57.422Z",
+      "lastPulledAt": "2026-09-16T18:29:57.422Z"
     },
     "409": {
       "id": 409,
