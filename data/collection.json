@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T04:59:29.468Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T09:51:57.761Z",
   "lastPull": {
-    "id": 252,
-    "name": "treecko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "id": 806,
+    "name": "blacephalon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
     "types": [
-      "grass"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-16T04:59:29.468Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T09:51:57.761Z"
   },
   "pulls": [
+    {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T09:51:57.761Z"
+    },
     {
       "id": 252,
       "name": "treecko",
@@ -177,6 +190,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T00:17:23.511Z",
       "lastPulledAt": "2026-09-16T00:17:23.511Z"
+    },
+    "806": {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T09:51:57.761Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T09:51:57.761Z",
+      "lastPulledAt": "2026-09-16T09:51:57.761Z"
     }
   },
   "typeTotals": {
