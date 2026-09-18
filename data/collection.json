@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-18T16:17:15.497Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-18T19:05:14.516Z",
   "lastPull": {
-    "id": 750,
-    "name": "mudsdale",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "id": 56,
+    "name": "mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
     "types": [
-      "ground"
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T16:17:15.497Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-18T19:05:14.516Z"
   },
   "pulls": [
+    {
+      "id": 56,
+      "name": "mankey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-18T19:05:14.516Z"
+    },
     {
       "id": 750,
       "name": "mudsdale",
@@ -117,17 +128,6 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-09-17T09:41:35.122Z"
-    },
-    {
-      "id": 55,
-      "name": "golduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T04:40:59.061Z"
     }
   ],
   "pokemon": {
@@ -161,6 +161,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T04:40:59.061Z",
       "lastPulledAt": "2026-09-17T04:40:59.061Z"
+    },
+    "56": {
+      "id": 56,
+      "name": "mankey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-18T19:05:14.516Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T19:05:14.516Z",
+      "lastPulledAt": "2026-09-18T19:05:14.516Z"
     },
     "142": {
       "id": 142,
