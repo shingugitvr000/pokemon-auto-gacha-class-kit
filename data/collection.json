@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T11:54:24.264Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-18T16:17:15.497Z",
   "lastPull": {
-    "id": 983,
-    "name": "kingambit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "dark",
-      "steel"
+      "ground"
     ],
-    "totalStats": 550,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-18T11:54:24.264Z"
+    "pulledAt": "2026-09-18T16:17:15.497Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T16:17:15.497Z"
+    },
     {
       "id": 983,
       "name": "kingambit",
@@ -118,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T04:40:59.061Z"
-    },
-    {
-      "id": 639,
-      "name": "terrakion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
-      "types": [
-        "rock",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T23:52:51.466Z"
     }
   ],
   "pokemon": {
@@ -381,6 +379,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T00:17:23.511Z",
       "lastPulledAt": "2026-09-16T00:17:23.511Z"
+    },
+    "750": {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T16:17:15.497Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T16:17:15.497Z",
+      "lastPulledAt": "2026-09-18T16:17:15.497Z"
     },
     "806": {
       "id": 806,
