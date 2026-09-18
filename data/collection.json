@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-18T21:40:03.160Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-18T23:36:38.287Z",
   "lastPull": {
-    "id": 936,
-    "name": "armarouge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "fire",
-      "psychic"
+      "bug",
+      "flying"
     ],
-    "totalStats": 525,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-18T21:40:03.160Z"
+    "pulledAt": "2026-09-18T23:36:38.287Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:36:38.287Z"
+    },
     {
       "id": 936,
       "name": "armarouge",
@@ -118,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-17T18:30:25.190Z"
-    },
-    {
-      "id": 662,
-      "name": "fletchinder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 382,
-      "grade": "N",
-      "pulledAt": "2026-09-17T14:28:56.555Z"
     }
   ],
   "pokemon": {
@@ -178,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:05:14.516Z",
       "lastPulledAt": "2026-09-18T19:05:14.516Z"
+    },
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:36:38.287Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:36:38.287Z",
+      "lastPulledAt": "2026-09-18T23:36:38.287Z"
     },
     "142": {
       "id": 142,
