@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-18T01:37:45.365Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-18T06:41:53.476Z",
   "lastPull": {
-    "id": 674,
-    "name": "pancham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "id": 985,
+    "name": "scream-tail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
     "types": [
-      "fighting"
+      "fairy",
+      "psychic"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-09-18T01:37:45.365Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T06:41:53.476Z"
   },
   "pulls": [
+    {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T06:41:53.476Z"
+    },
     {
       "id": 674,
       "name": "pancham",
@@ -116,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-16T21:40:07.060Z"
-    },
-    {
-      "id": 306,
-      "name": "aggron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T18:29:57.422Z"
     }
   ],
   "pokemon": {
@@ -410,6 +411,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:45:02.918Z",
       "lastPulledAt": "2026-09-17T23:45:02.918Z"
+    },
+    "985": {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T06:41:53.476Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T06:41:53.476Z",
+      "lastPulledAt": "2026-09-18T06:41:53.476Z"
     }
   },
   "typeTotals": {
