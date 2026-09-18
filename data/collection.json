@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-18T19:05:14.516Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-18T21:40:03.160Z",
   "lastPull": {
-    "id": 56,
-    "name": "mankey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "id": 936,
+    "name": "armarouge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
     "types": [
-      "fighting"
+      "fire",
+      "psychic"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-18T19:05:14.516Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T21:40:03.160Z"
   },
   "pulls": [
+    {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T21:40:03.160Z"
+    },
     {
       "id": 56,
       "name": "mankey",
@@ -117,17 +130,6 @@
       "totalStats": 382,
       "grade": "N",
       "pulledAt": "2026-09-17T14:28:56.555Z"
-    },
-    {
-      "id": 366,
-      "name": "clamperl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-09-17T09:41:35.122Z"
     }
   ],
   "pokemon": {
@@ -440,6 +442,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:45:02.918Z",
       "lastPulledAt": "2026-09-17T23:45:02.918Z"
+    },
+    "936": {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T21:40:03.160Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:40:03.160Z",
+      "lastPulledAt": "2026-09-18T21:40:03.160Z"
     },
     "983": {
       "id": 983,
