@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-19T17:34:13.190Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-19T19:35:45.513Z",
   "lastPull": {
-    "id": 505,
-    "name": "watchog",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-19T17:34:13.190Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T19:35:45.513Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T19:35:45.513Z"
+    },
     {
       "id": 505,
       "name": "watchog",
@@ -118,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T16:17:15.497Z"
-    },
-    {
-      "id": 983,
-      "name": "kingambit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T11:54:24.264Z"
     }
   ],
   "pokemon": {
@@ -221,10 +220,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-16T21:40:07.060Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T21:40:07.060Z",
-      "lastPulledAt": "2026-09-16T21:40:07.060Z"
+      "lastPulledAt": "2026-09-19T19:35:45.513Z"
     },
     "252": {
       "id": 252,
