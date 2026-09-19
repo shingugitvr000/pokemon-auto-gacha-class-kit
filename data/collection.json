@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T11:35:36.564Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T14:48:17.456Z",
   "lastPull": {
-    "id": 458,
-    "name": "mantyke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
       "water",
-      "flying"
+      "grass"
     ],
-    "totalStats": 345,
-    "grade": "N",
-    "pulledAt": "2026-09-19T11:35:36.564Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-19T14:48:17.456Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-19T14:48:17.456Z"
+    },
     {
       "id": 458,
       "name": "mantyke",
@@ -120,17 +132,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-18T06:41:53.476Z"
-    },
-    {
-      "id": 674,
-      "name": "pancham",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-09-18T01:37:45.365Z"
     }
   ],
   "pokemon": {
@@ -273,6 +274,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T14:59:27.108Z",
       "lastPulledAt": "2026-09-15T14:59:27.108Z"
+    },
+    "272": {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-19T14:48:17.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T14:48:17.456Z",
+      "lastPulledAt": "2026-09-19T14:48:17.456Z"
     },
     "306": {
       "id": 306,
