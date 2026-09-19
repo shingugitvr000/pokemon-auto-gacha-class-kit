@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 25,
-  "updatedAt": "2026-09-19T01:37:21.252Z",
+  "totalPulls": 26,
+  "updatedAt": "2026-09-19T06:39:22.123Z",
   "lastPull": {
-    "id": 520,
-    "name": "tranquill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "id": 632,
+    "name": "durant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "steel"
     ],
-    "totalStats": 358,
-    "grade": "N",
-    "pulledAt": "2026-09-19T01:37:21.252Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-09-19T06:39:22.123Z"
   },
   "pulls": [
+    {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:39:22.123Z"
+    },
     {
       "id": 520,
       "name": "tranquill",
@@ -118,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-17T23:45:02.918Z"
-    },
-    {
-      "id": 469,
-      "name": "yanmega",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T21:45:14.570Z"
     }
   ],
   "pokemon": {
@@ -366,6 +366,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T14:47:04.780Z",
       "lastPulledAt": "2026-09-16T14:47:04.780Z"
+    },
+    "632": {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:39:22.123Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T06:39:22.123Z",
+      "lastPulledAt": "2026-09-19T06:39:22.123Z"
     },
     "639": {
       "id": 639,
