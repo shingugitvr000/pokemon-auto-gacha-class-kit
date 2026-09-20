@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T12:22:06.397Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-20T16:25:52.488Z",
   "lastPull": {
-    "id": 418,
-    "name": "buizel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "id": 740,
+    "name": "crabominable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
     "types": [
-      "water"
+      "fighting",
+      "ice"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-20T12:22:06.397Z"
+    "totalStats": 478,
+    "grade": "R",
+    "pulledAt": "2026-09-20T16:25:52.488Z"
   },
   "pulls": [
+    {
+      "id": 740,
+      "name": "crabominable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-09-20T16:25:52.488Z"
+    },
     {
       "id": 418,
       "name": "buizel",
@@ -116,18 +129,6 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-09-19T11:35:36.564Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-09-19T06:39:22.123Z"
     }
   ],
   "pokemon": {
@@ -551,6 +552,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T00:17:23.511Z",
       "lastPulledAt": "2026-09-16T00:17:23.511Z"
+    },
+    "740": {
+      "id": 740,
+      "name": "crabominable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-09-20T16:25:52.488Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T16:25:52.488Z",
+      "lastPulledAt": "2026-09-20T16:25:52.488Z"
     },
     "750": {
       "id": 750,
