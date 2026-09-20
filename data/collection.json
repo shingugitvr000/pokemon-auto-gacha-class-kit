@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-20T21:31:20.679Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-20T23:31:19.684Z",
   "lastPull": {
-    "id": 134,
-    "name": "vaporeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "id": 207,
+    "name": "gligar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
     "types": [
-      "water"
+      "ground",
+      "flying"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T21:31:20.679Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-20T23:31:19.684Z"
   },
   "pulls": [
+    {
+      "id": 207,
+      "name": "gligar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T23:31:19.684Z"
+    },
     {
       "id": 134,
       "name": "vaporeon",
@@ -116,17 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-19T19:35:45.513Z"
-    },
-    {
-      "id": 505,
-      "name": "watchog",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-19T17:34:13.190Z"
     }
   ],
   "pokemon": {
@@ -253,6 +255,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T21:40:07.060Z",
       "lastPulledAt": "2026-09-19T19:35:45.513Z"
+    },
+    "207": {
+      "id": 207,
+      "name": "gligar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T23:31:19.684Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T23:31:19.684Z",
+      "lastPulledAt": "2026-09-20T23:31:19.684Z"
     },
     "252": {
       "id": 252,
