@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-19T23:39:47.581Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-20T01:42:36.675Z",
   "lastPull": {
-    "id": 338,
-    "name": "solrock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "id": 18,
+    "name": "pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "types": [
-      "rock",
-      "psychic"
+      "normal",
+      "flying"
     ],
-    "totalStats": 460,
+    "totalStats": 479,
     "grade": "R",
-    "pulledAt": "2026-09-19T23:39:47.581Z"
+    "pulledAt": "2026-09-20T01:42:36.675Z"
   },
   "pulls": [
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-09-20T01:42:36.675Z"
+    },
     {
       "id": 338,
       "name": "solrock",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T23:36:38.287Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T21:40:03.160Z"
     }
   ],
   "pokemon": {
@@ -149,6 +149,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T15:00:52.770Z",
       "lastPulledAt": "2026-09-15T15:00:52.770Z"
+    },
+    "18": {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-09-20T01:42:36.675Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:42:36.675Z",
+      "lastPulledAt": "2026-09-20T01:42:36.675Z"
     },
     "55": {
       "id": 55,
