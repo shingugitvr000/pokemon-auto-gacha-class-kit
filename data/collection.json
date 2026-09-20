@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-20T19:00:11.062Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-20T21:31:20.679Z",
   "lastPull": {
-    "id": 1011,
-    "name": "dipplin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+    "id": 134,
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "types": [
-      "grass",
-      "dragon"
+      "water"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-20T19:00:11.062Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T21:31:20.679Z"
   },
   "pulls": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:31:20.679Z"
+    },
     {
       "id": 1011,
       "name": "dipplin",
@@ -117,18 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-19T17:34:13.190Z"
-    },
-    {
-      "id": 272,
-      "name": "ludicolo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-19T14:48:17.456Z"
     }
   ],
   "pokemon": {
@@ -209,6 +207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:36:38.287Z",
       "lastPulledAt": "2026-09-18T23:36:38.287Z"
+    },
+    "134": {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:31:20.679Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:31:20.679Z",
+      "lastPulledAt": "2026-09-20T21:31:20.679Z"
     },
     "142": {
       "id": 142,
