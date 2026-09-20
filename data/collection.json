@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-20T01:42:36.675Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-20T07:07:02.066Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 685,
+    "name": "slurpuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
     "types": [
-      "normal",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 479,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-09-20T01:42:36.675Z"
+    "pulledAt": "2026-09-20T07:07:02.066Z"
   },
   "pulls": [
+    {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-20T07:07:02.066Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -119,18 +129,6 @@
       "totalStats": 358,
       "grade": "N",
       "pulledAt": "2026-09-19T01:37:21.252Z"
-    },
-    {
-      "id": 123,
-      "name": "scyther",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T23:36:38.287Z"
     }
   ],
   "pokemon": {
@@ -509,6 +507,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:37:45.365Z",
       "lastPulledAt": "2026-09-18T01:37:45.365Z"
+    },
+    "685": {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-20T07:07:02.066Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T07:07:02.066Z",
+      "lastPulledAt": "2026-09-20T07:07:02.066Z"
     },
     "739": {
       "id": 739,
