@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T16:25:52.488Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-20T19:00:11.062Z",
   "lastPull": {
-    "id": 740,
-    "name": "crabominable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "id": 1011,
+    "name": "dipplin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
     "types": [
-      "fighting",
-      "ice"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 478,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-20T16:25:52.488Z"
+    "pulledAt": "2026-09-20T19:00:11.062Z"
   },
   "pulls": [
+    {
+      "id": 1011,
+      "name": "dipplin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T19:00:11.062Z"
+    },
     {
       "id": 740,
       "name": "crabominable",
@@ -117,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-19T14:48:17.456Z"
-    },
-    {
-      "id": 458,
-      "name": "mantyke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-09-19T11:35:36.564Z"
     }
   ],
   "pokemon": {
@@ -677,6 +677,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:41:53.476Z",
       "lastPulledAt": "2026-09-18T06:41:53.476Z"
+    },
+    "1011": {
+      "id": 1011,
+      "name": "dipplin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T19:00:11.062Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T19:00:11.062Z",
+      "lastPulledAt": "2026-09-20T19:00:11.062Z"
     }
   },
   "typeTotals": {
