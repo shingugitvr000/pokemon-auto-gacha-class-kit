@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-21T01:40:40.375Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-21T07:16:03.726Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 617,
+    "name": "accelgor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
     "types": [
-      "bug",
-      "flying"
+      "bug"
     ],
-    "totalStats": 424,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-21T01:40:40.375Z"
+    "pulledAt": "2026-09-21T07:16:03.726Z"
   },
   "pulls": [
+    {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:16:03.726Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -119,17 +129,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-19T23:39:47.581Z"
-    },
-    {
-      "id": 932,
-      "name": "nacli",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-19T21:45:57.655Z"
     }
   ],
   "pokemon": {
@@ -491,6 +490,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:37:21.252Z",
       "lastPulledAt": "2026-09-19T01:37:21.252Z"
+    },
+    "617": {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:16:03.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:16:03.726Z",
+      "lastPulledAt": "2026-09-21T07:16:03.726Z"
     },
     "625": {
       "id": 625,
