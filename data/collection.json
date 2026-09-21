@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-21T19:40:44.335Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-21T22:51:22.599Z",
   "lastPull": {
-    "id": 442,
-    "name": "spiritomb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "ghost",
-      "dark"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 415,
     "grade": "R",
-    "pulledAt": "2026-09-21T19:40:44.335Z"
+    "pulledAt": "2026-09-21T22:51:22.599Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-21T22:51:22.599Z"
+    },
     {
       "id": 442,
       "name": "spiritomb",
@@ -118,17 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-20T12:22:06.397Z"
-    },
-    {
-      "id": 685,
-      "name": "slurpuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-20T07:07:02.066Z"
     }
   ],
   "pokemon": {
@@ -240,6 +239,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-15T18:55:05.234Z",
       "lastPulledAt": "2026-09-15T18:55:05.234Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-21T22:51:22.599Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T22:51:22.599Z",
+      "lastPulledAt": "2026-09-21T22:51:22.599Z"
     },
     "196": {
       "id": 196,
