@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-21T07:16:03.726Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-21T14:21:13.535Z",
   "lastPull": {
-    "id": 617,
-    "name": "accelgor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "id": 516,
+    "name": "simipour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 495,
+    "totalStats": 498,
     "grade": "R",
-    "pulledAt": "2026-09-21T07:16:03.726Z"
+    "pulledAt": "2026-09-21T14:21:13.535Z"
   },
   "pulls": [
+    {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-21T14:21:13.535Z"
+    },
     {
       "id": 617,
       "name": "accelgor",
@@ -117,18 +128,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-09-20T01:42:36.675Z"
-    },
-    {
-      "id": 338,
-      "name": "solrock",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-19T23:39:47.581Z"
     }
   ],
   "pokemon": {
@@ -474,6 +473,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:34:13.190Z",
       "lastPulledAt": "2026-09-19T17:34:13.190Z"
+    },
+    "516": {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-21T14:21:13.535Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T14:21:13.535Z",
+      "lastPulledAt": "2026-09-21T14:21:13.535Z"
     },
     "520": {
       "id": 520,
