@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-21T22:51:22.599Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T01:33:07.215Z",
   "lastPull": {
-    "id": 162,
-    "name": "furret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "id": 580,
+    "name": "ducklett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
     "types": [
-      "normal"
+      "water",
+      "flying"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-09-21T22:51:22.599Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-22T01:33:07.215Z"
   },
   "pulls": [
+    {
+      "id": 580,
+      "name": "ducklett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:33:07.215Z"
+    },
     {
       "id": 162,
       "name": "furret",
@@ -117,17 +130,6 @@
       "totalStats": 478,
       "grade": "R",
       "pulledAt": "2026-09-20T16:25:52.488Z"
-    },
-    {
-      "id": 418,
-      "name": "buizel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-20T12:22:06.397Z"
     }
   ],
   "pokemon": {
@@ -535,6 +537,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:37:21.252Z",
       "lastPulledAt": "2026-09-19T01:37:21.252Z"
+    },
+    "580": {
+      "id": 580,
+      "name": "ducklett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:33:07.215Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:33:07.215Z",
+      "lastPulledAt": "2026-09-22T01:33:07.215Z"
     },
     "617": {
       "id": 617,
