@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-22T06:47:12.585Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-22T12:07:26.436Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 801,
+    "name": "magearna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
     "types": [
+      "steel",
       "fairy"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-09-22T06:47:12.585Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-22T12:07:26.436Z"
   },
   "pulls": [
+    {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-22T12:07:26.436Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -116,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-20T21:31:20.679Z"
-    },
-    {
-      "id": 1011,
-      "name": "dipplin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-20T19:00:11.062Z"
     }
   ],
   "pokemon": {
@@ -721,6 +722,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T16:17:15.497Z",
       "lastPulledAt": "2026-09-18T16:17:15.497Z"
+    },
+    "801": {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-22T12:07:26.436Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T12:07:26.436Z",
+      "lastPulledAt": "2026-09-22T12:07:26.436Z"
     },
     "806": {
       "id": 806,
