@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-22T20:07:08.879Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-22T22:57:08.946Z",
   "lastPull": {
-    "id": 224,
-    "name": "octillery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "id": 217,
+    "name": "ursaring",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-22T20:07:08.879Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T22:57:08.946Z"
   },
   "pulls": [
+    {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T22:57:08.946Z"
+    },
     {
       "id": 224,
       "name": "octillery",
@@ -115,18 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-21T07:16:03.726Z"
-    },
-    {
-      "id": 414,
-      "name": "mothim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-09-21T01:40:40.375Z"
     }
   ],
   "pokemon": {
@@ -299,6 +298,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:12.585Z",
       "lastPulledAt": "2026-09-22T06:47:12.585Z"
+    },
+    "217": {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T22:57:08.946Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:57:08.946Z",
+      "lastPulledAt": "2026-09-22T22:57:08.946Z"
     },
     "224": {
       "id": 224,
