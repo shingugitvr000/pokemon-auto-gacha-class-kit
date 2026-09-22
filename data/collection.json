@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T01:33:07.215Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T06:47:12.585Z",
   "lastPull": {
-    "id": 580,
-    "name": "ducklett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "water",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-22T01:33:07.215Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-09-22T06:47:12.585Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-22T06:47:12.585Z"
+    },
     {
       "id": 580,
       "name": "ducklett",
@@ -118,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-20T19:00:11.062Z"
-    },
-    {
-      "id": 740,
-      "name": "crabominable",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
-      "types": [
-        "fighting",
-        "ice"
-      ],
-      "totalStats": 478,
-      "grade": "R",
-      "pulledAt": "2026-09-20T16:25:52.488Z"
     }
   ],
   "pokemon": {
@@ -287,6 +285,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:31:19.684Z",
       "lastPulledAt": "2026-09-20T23:31:19.684Z"
+    },
+    "210": {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-22T06:47:12.585Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T06:47:12.585Z",
+      "lastPulledAt": "2026-09-22T06:47:12.585Z"
     },
     "252": {
       "id": 252,
