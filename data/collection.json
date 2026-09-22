@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-22T16:57:34.493Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-22T20:07:08.879Z",
   "lastPull": {
-    "id": 538,
-    "name": "throh",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
+    "id": 224,
+    "name": "octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 465,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-09-22T16:57:34.493Z"
+    "pulledAt": "2026-09-22T20:07:08.879Z"
   },
   "pulls": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:07:08.879Z"
+    },
     {
       "id": 538,
       "name": "throh",
@@ -116,18 +127,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-09-21T01:40:40.375Z"
-    },
-    {
-      "id": 207,
-      "name": "gligar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-20T23:31:19.684Z"
     }
   ],
   "pokemon": {
@@ -300,6 +299,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:12.585Z",
       "lastPulledAt": "2026-09-22T06:47:12.585Z"
+    },
+    "224": {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:07:08.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T20:07:08.879Z",
+      "lastPulledAt": "2026-09-22T20:07:08.879Z"
     },
     "252": {
       "id": 252,
