@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-23T20:30:56.550Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-23T23:08:58.474Z",
   "lastPull": {
-    "id": 990,
-    "name": "iron-treads",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "id": 499,
+    "name": "pignite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
     "types": [
-      "ground",
-      "steel"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T20:30:56.550Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-09-23T23:08:58.474Z"
   },
   "pulls": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:08:58.474Z"
+    },
     {
       "id": 990,
       "name": "iron-treads",
@@ -115,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-22T12:07:26.436Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-22T06:47:12.585Z"
     }
   ],
   "pokemon": {
@@ -562,6 +563,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T12:10:34.415Z",
       "lastPulledAt": "2026-09-23T12:10:34.415Z"
+    },
+    "499": {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:08:58.474Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:08:58.474Z",
+      "lastPulledAt": "2026-09-23T23:08:58.474Z"
     },
     "505": {
       "id": 505,
