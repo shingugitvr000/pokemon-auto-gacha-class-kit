@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T06:34:29.955Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T12:10:34.415Z",
   "lastPull": {
-    "id": 450,
-    "name": "hippowdon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "id": 480,
+    "name": "uxie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
     "types": [
-      "ground"
+      "psychic"
     ],
-    "totalStats": 525,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-09-23T06:34:29.955Z"
+    "pulledAt": "2026-09-23T12:10:34.415Z"
   },
   "pulls": [
+    {
+      "id": 480,
+      "name": "uxie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T12:10:34.415Z"
+    },
     {
       "id": 450,
       "name": "hippowdon",
@@ -114,18 +125,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-09-21T22:51:22.599Z"
-    },
-    {
-      "id": 442,
-      "name": "spiritomb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
-      "types": [
-        "ghost",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-21T19:40:44.335Z"
     }
   ],
   "pokemon": {
@@ -547,6 +546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:45:14.570Z",
       "lastPulledAt": "2026-09-17T21:45:14.570Z"
+    },
+    "480": {
+      "id": 480,
+      "name": "uxie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T12:10:34.415Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T12:10:34.415Z",
+      "lastPulledAt": "2026-09-23T12:10:34.415Z"
     },
     "505": {
       "id": 505,
