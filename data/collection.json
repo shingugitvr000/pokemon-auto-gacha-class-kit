@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-22T22:57:08.946Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T01:25:15.571Z",
   "lastPull": {
-    "id": 217,
-    "name": "ursaring",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "normal"
+      "ground"
     ],
     "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-22T22:57:08.946Z"
+    "pulledAt": "2026-09-23T01:25:15.571Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T01:25:15.571Z"
+    },
     {
       "id": 217,
       "name": "ursaring",
@@ -115,17 +126,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-21T14:21:13.535Z"
-    },
-    {
-      "id": 617,
-      "name": "accelgor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-21T07:16:03.726Z"
     }
   ],
   "pokemon": {
@@ -760,10 +760,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T16:17:15.497Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T16:17:15.497Z",
-      "lastPulledAt": "2026-09-18T16:17:15.497Z"
+      "lastPulledAt": "2026-09-23T01:25:15.571Z"
     },
     "801": {
       "id": 801,
