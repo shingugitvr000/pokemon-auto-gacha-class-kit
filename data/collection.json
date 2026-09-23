@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-23T17:15:17.263Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-23T20:30:56.550Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 990,
+    "name": "iron-treads",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
     "types": [
-      "normal"
+      "ground",
+      "steel"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-23T17:15:17.263Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T20:30:56.550Z"
   },
   "pulls": [
+    {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T20:30:56.550Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -113,18 +126,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-22T06:47:12.585Z"
-    },
-    {
-      "id": 580,
-      "name": "ducklett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-22T01:33:07.215Z"
     }
   ],
   "pokemon": {
@@ -918,6 +919,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:41:53.476Z",
       "lastPulledAt": "2026-09-18T06:41:53.476Z"
+    },
+    "990": {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T20:30:56.550Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T20:30:56.550Z",
+      "lastPulledAt": "2026-09-23T20:30:56.550Z"
     },
     "1011": {
       "id": 1011,
