@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T12:10:34.415Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-23T17:15:17.263Z",
   "lastPull": {
-    "id": 480,
-    "name": "uxie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T12:10:34.415Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-23T17:15:17.263Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-23T17:15:17.263Z"
+    },
     {
       "id": 480,
       "name": "uxie",
@@ -114,17 +125,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-22T01:33:07.215Z"
-    },
-    {
-      "id": 162,
-      "name": "furret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-09-21T22:51:22.599Z"
     }
   ],
   "pokemon": {
@@ -622,6 +622,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:57:34.493Z",
       "lastPulledAt": "2026-09-22T16:57:34.493Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-23T17:15:17.263Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T17:15:17.263Z",
+      "lastPulledAt": "2026-09-23T17:15:17.263Z"
     },
     "580": {
       "id": 580,
