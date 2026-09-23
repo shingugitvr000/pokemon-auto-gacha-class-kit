@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-23T01:25:15.571Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-23T06:34:29.955Z",
   "lastPull": {
-    "id": 750,
-    "name": "mudsdale",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "id": 450,
+    "name": "hippowdon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
     "types": [
       "ground"
     ],
-    "totalStats": 500,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-09-23T01:25:15.571Z"
+    "pulledAt": "2026-09-23T06:34:29.955Z"
   },
   "pulls": [
+    {
+      "id": 450,
+      "name": "hippowdon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T06:34:29.955Z"
+    },
     {
       "id": 750,
       "name": "mudsdale",
@@ -115,17 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-21T19:40:44.335Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-21T14:21:13.535Z"
     }
   ],
   "pokemon": {
@@ -500,6 +500,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T19:40:44.335Z",
       "lastPulledAt": "2026-09-21T19:40:44.335Z"
+    },
+    "450": {
+      "id": 450,
+      "name": "hippowdon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T06:34:29.955Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T06:34:29.955Z",
+      "lastPulledAt": "2026-09-23T06:34:29.955Z"
     },
     "458": {
       "id": 458,
