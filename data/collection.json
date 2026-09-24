@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-24T17:25:00.263Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-24T20:41:53.250Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 954,
+    "name": "rabsca",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
     "types": [
-      "fire",
-      "dragon"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 485,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-09-24T17:25:00.263Z"
+    "pulledAt": "2026-09-24T20:41:53.250Z"
   },
   "pulls": [
+    {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-24T20:41:53.250Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -119,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-23T06:34:29.955Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T01:25:15.571Z"
     }
   ],
   "pokemon": {
@@ -971,6 +972,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:40:03.160Z",
       "lastPulledAt": "2026-09-18T21:40:03.160Z"
+    },
+    "954": {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-24T20:41:53.250Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T20:41:53.250Z",
+      "lastPulledAt": "2026-09-24T20:41:53.250Z"
     },
     "983": {
       "id": 983,
