@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-24T12:19:36.624Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-24T17:25:00.263Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "steel",
-      "psychic"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-24T12:19:36.624Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-24T17:25:00.263Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:25:00.263Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-23T01:25:15.571Z"
-    },
-    {
-      "id": 217,
-      "name": "ursaring",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T22:57:08.946Z"
     }
   ],
   "pokemon": {
@@ -860,6 +861,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T16:17:15.497Z",
       "lastPulledAt": "2026-09-23T01:25:15.571Z"
+    },
+    "776": {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:25:00.263Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:25:00.263Z",
+      "lastPulledAt": "2026-09-24T17:25:00.263Z"
     },
     "801": {
       "id": 801,
