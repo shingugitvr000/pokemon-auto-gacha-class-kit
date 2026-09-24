@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T06:40:34.874Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T12:19:36.624Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 436,
+    "name": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
     "types": [
-      "water",
-      "fighting"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T06:40:34.874Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-24T12:19:36.624Z"
   },
   "pulls": [
+    {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-24T12:19:36.624Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -117,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-22T22:57:08.946Z"
-    },
-    {
-      "id": 224,
-      "name": "octillery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-22T20:07:08.879Z"
     }
   ],
   "pokemon": {
@@ -486,6 +487,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:22:06.397Z",
       "lastPulledAt": "2026-09-20T12:22:06.397Z"
+    },
+    "436": {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-24T12:19:36.624Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T12:19:36.624Z",
+      "lastPulledAt": "2026-09-24T12:19:36.624Z"
     },
     "442": {
       "id": 442,
