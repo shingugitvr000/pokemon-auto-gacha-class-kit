@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-24T20:41:53.250Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-24T23:34:25.898Z",
   "lastPull": {
-    "id": 954,
-    "name": "rabsca",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    "id": 636,
+    "name": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
     "types": [
       "bug",
-      "psychic"
+      "fire"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-24T20:41:53.250Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-09-24T23:34:25.898Z"
   },
   "pulls": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:34:25.898Z"
+    },
     {
       "id": 954,
       "name": "rabsca",
@@ -120,17 +132,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-23T12:10:34.415Z"
-    },
-    {
-      "id": 450,
-      "name": "hippowdon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T06:34:29.955Z"
     }
   ],
   "pokemon": {
@@ -754,6 +755,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:39:22.123Z",
       "lastPulledAt": "2026-09-19T06:39:22.123Z"
+    },
+    "636": {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:34:25.898Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:34:25.898Z",
+      "lastPulledAt": "2026-09-24T23:34:25.898Z"
     },
     "639": {
       "id": 639,
