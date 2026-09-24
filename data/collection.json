@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-24T01:26:25.779Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-24T06:40:34.874Z",
   "lastPull": {
-    "id": 596,
-    "name": "galvantula",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "id": 914,
+    "name": "quaquaval",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
     "types": [
-      "bug",
-      "electric"
+      "water",
+      "fighting"
     ],
-    "totalStats": 472,
-    "grade": "R",
-    "pulledAt": "2026-09-24T01:26:25.779Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T06:40:34.874Z"
   },
   "pulls": [
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T06:40:34.874Z"
+    },
     {
       "id": 596,
       "name": "galvantula",
@@ -116,17 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-22T20:07:08.879Z"
-    },
-    {
-      "id": 538,
-      "name": "throh",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-09-22T16:57:34.493Z"
     }
   ],
   "pokemon": {
@@ -889,6 +890,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:45:02.918Z",
       "lastPulledAt": "2026-09-17T23:45:02.918Z"
+    },
+    "914": {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T06:40:34.874Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T06:40:34.874Z",
+      "lastPulledAt": "2026-09-24T06:40:34.874Z"
     },
     "932": {
       "id": 932,
