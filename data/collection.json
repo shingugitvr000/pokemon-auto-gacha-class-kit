@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-23T23:08:58.474Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-24T01:26:25.779Z",
   "lastPull": {
-    "id": 499,
-    "name": "pignite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "id": 596,
+    "name": "galvantula",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
     "types": [
-      "fire",
-      "fighting"
+      "bug",
+      "electric"
     ],
-    "totalStats": 418,
+    "totalStats": 472,
     "grade": "R",
-    "pulledAt": "2026-09-23T23:08:58.474Z"
+    "pulledAt": "2026-09-24T01:26:25.779Z"
   },
   "pulls": [
+    {
+      "id": 596,
+      "name": "galvantula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-09-24T01:26:25.779Z"
+    },
     {
       "id": 499,
       "name": "pignite",
@@ -115,18 +127,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-09-22T16:57:34.493Z"
-    },
-    {
-      "id": 801,
-      "name": "magearna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-22T12:07:26.436Z"
     }
   ],
   "pokemon": {
@@ -671,6 +671,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:33:07.215Z",
       "lastPulledAt": "2026-09-22T01:33:07.215Z"
+    },
+    "596": {
+      "id": 596,
+      "name": "galvantula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-09-24T01:26:25.779Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T01:26:25.779Z",
+      "lastPulledAt": "2026-09-24T01:26:25.779Z"
     },
     "617": {
       "id": 617,
