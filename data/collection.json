@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-24T23:34:25.898Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-25T01:55:18.722Z",
   "lastPull": {
-    "id": 636,
-    "name": "larvesta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "id": 356,
+    "name": "dusclops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
     "types": [
-      "bug",
-      "fire"
+      "ghost"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-09-24T23:34:25.898Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-25T01:55:18.722Z"
   },
   "pulls": [
+    {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-25T01:55:18.722Z"
+    },
     {
       "id": 636,
       "name": "larvesta",
@@ -121,17 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-23T17:15:17.263Z"
-    },
-    {
-      "id": 480,
-      "name": "uxie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T12:10:34.415Z"
     }
   ],
   "pokemon": {
@@ -429,6 +428,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:39:47.581Z",
       "lastPulledAt": "2026-09-19T23:39:47.581Z"
+    },
+    "356": {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-25T01:55:18.722Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:55:18.722Z",
+      "lastPulledAt": "2026-09-25T01:55:18.722Z"
     },
     "366": {
       "id": 366,
