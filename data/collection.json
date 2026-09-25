@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T12:58:42.091Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-25T17:54:57.412Z",
   "lastPull": {
-    "id": 1011,
-    "name": "dipplin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+    "id": 577,
+    "name": "solosis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
     "types": [
-      "grass",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-25T12:58:42.091Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-09-25T17:54:57.412Z"
   },
   "pulls": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-25T17:54:57.412Z"
+    },
     {
       "id": 1011,
       "name": "dipplin",
@@ -120,18 +130,6 @@
       "totalStats": 472,
       "grade": "R",
       "pulledAt": "2026-09-24T01:26:25.779Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-09-23T23:08:58.474Z"
     }
   ],
   "pokemon": {
@@ -691,6 +689,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:15:17.263Z",
       "lastPulledAt": "2026-09-23T17:15:17.263Z"
+    },
+    "577": {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-25T17:54:57.412Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T17:54:57.412Z",
+      "lastPulledAt": "2026-09-25T17:54:57.412Z"
     },
     "580": {
       "id": 580,
