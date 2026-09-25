@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-25T01:55:18.722Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-25T07:36:22.816Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 808,
+    "name": "meltan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
     "types": [
-      "ghost"
+      "steel"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-25T01:55:18.722Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-25T07:36:22.816Z"
   },
   "pulls": [
+    {
+      "id": 808,
+      "name": "meltan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-25T07:36:22.816Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -120,17 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-23T20:30:56.550Z"
-    },
-    {
-      "id": 573,
-      "name": "cinccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-23T17:15:17.263Z"
     }
   ],
   "pokemon": {
@@ -941,6 +941,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T09:51:57.761Z",
       "lastPulledAt": "2026-09-16T09:51:57.761Z"
+    },
+    "808": {
+      "id": 808,
+      "name": "meltan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-25T07:36:22.816Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T07:36:22.816Z",
+      "lastPulledAt": "2026-09-25T07:36:22.816Z"
     },
     "832": {
       "id": 832,
