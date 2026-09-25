@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-25T07:36:22.816Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-25T12:58:42.091Z",
   "lastPull": {
-    "id": 808,
-    "name": "meltan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "id": 1011,
+    "name": "dipplin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
     "types": [
-      "steel"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-25T07:36:22.816Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-25T12:58:42.091Z"
   },
   "pulls": [
+    {
+      "id": 1011,
+      "name": "dipplin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-25T12:58:42.091Z"
+    },
     {
       "id": 808,
       "name": "meltan",
@@ -119,18 +132,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-09-23T23:08:58.474Z"
-    },
-    {
-      "id": 990,
-      "name": "iron-treads",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
-      "types": [
-        "ground",
-        "steel"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T20:30:56.550Z"
     }
   ],
   "pokemon": {
@@ -1094,10 +1095,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-20T19:00:11.062Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:00:11.062Z",
-      "lastPulledAt": "2026-09-20T19:00:11.062Z"
+      "lastPulledAt": "2026-09-25T12:58:42.091Z"
     }
   },
   "typeTotals": {
