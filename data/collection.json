@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T13:57:14.362Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-26T17:43:21.216Z",
   "lastPull": {
-    "id": 111,
-    "name": "rhyhorn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "id": 722,
+    "name": "rowlet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
     "types": [
-      "ground",
-      "rock"
+      "grass",
+      "flying"
     ],
-    "totalStats": 345,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-09-26T13:57:14.362Z"
+    "pulledAt": "2026-09-26T17:43:21.216Z"
   },
   "pulls": [
+    {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-26T17:43:21.216Z"
+    },
     {
       "id": 111,
       "name": "rhyhorn",
@@ -118,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T01:55:18.722Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-24T23:34:25.898Z"
     }
   ],
   "pokemon": {
@@ -940,6 +940,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T07:07:02.066Z",
       "lastPulledAt": "2026-09-20T07:07:02.066Z"
+    },
+    "722": {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-26T17:43:21.216Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T17:43:21.216Z",
+      "lastPulledAt": "2026-09-26T17:43:21.216Z"
     },
     "739": {
       "id": 739,
