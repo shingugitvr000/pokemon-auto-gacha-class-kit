@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-26T04:57:18.232Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-26T09:49:16.202Z",
   "lastPull": {
-    "id": 373,
-    "name": "salamence",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "id": 675,
+    "name": "pangoro",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
     "types": [
-      "dragon",
-      "flying"
+      "fighting",
+      "dark"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-26T04:57:18.232Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-26T09:49:16.202Z"
   },
   "pulls": [
+    {
+      "id": 675,
+      "name": "pangoro",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-26T09:49:16.202Z"
+    },
     {
       "id": 373,
       "name": "salamence",
@@ -118,18 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-24T20:41:53.250Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-24T17:25:00.263Z"
     }
   ],
   "pokemon": {
@@ -893,6 +893,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:37:45.365Z",
       "lastPulledAt": "2026-09-18T01:37:45.365Z"
+    },
+    "675": {
+      "id": 675,
+      "name": "pangoro",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-26T09:49:16.202Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T09:49:16.202Z",
+      "lastPulledAt": "2026-09-26T09:49:16.202Z"
     },
     "685": {
       "id": 685,
