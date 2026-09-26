@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-25T21:27:05.286Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T00:06:44.754Z",
   "lastPull": {
-    "id": 427,
-    "name": "buneary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "id": 81,
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "types": [
-      "normal"
+      "electric",
+      "steel"
     ],
-    "totalStats": 350,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-09-25T21:27:05.286Z"
+    "pulledAt": "2026-09-26T00:06:44.754Z"
   },
   "pulls": [
+    {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-26T00:06:44.754Z"
+    },
     {
       "id": 427,
       "name": "buneary",
@@ -117,18 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-24T12:19:36.624Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T06:40:34.874Z"
     }
   ],
   "pokemon": {
@@ -193,6 +194,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:05:14.516Z",
       "lastPulledAt": "2026-09-18T19:05:14.516Z"
+    },
+    "81": {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-26T00:06:44.754Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:06:44.754Z",
+      "lastPulledAt": "2026-09-26T00:06:44.754Z"
     },
     "123": {
       "id": 123,
