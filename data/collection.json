@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-26T17:43:21.216Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-26T20:12:43.726Z",
   "lastPull": {
-    "id": 722,
-    "name": "rowlet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "id": 762,
+    "name": "steenee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
     "types": [
-      "grass",
-      "flying"
+      "grass"
     ],
-    "totalStats": 320,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-09-26T17:43:21.216Z"
+    "pulledAt": "2026-09-26T20:12:43.726Z"
   },
   "pulls": [
+    {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-26T20:12:43.726Z"
+    },
     {
       "id": 722,
       "name": "rowlet",
@@ -119,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-25T07:36:22.816Z"
-    },
-    {
-      "id": 356,
-      "name": "dusclops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-09-25T01:55:18.722Z"
     }
   ],
   "pokemon": {
@@ -1002,6 +1001,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T16:17:15.497Z",
       "lastPulledAt": "2026-09-23T01:25:15.571Z"
+    },
+    "762": {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-26T20:12:43.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T20:12:43.726Z",
+      "lastPulledAt": "2026-09-26T20:12:43.726Z"
     },
     "776": {
       "id": 776,
