@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T00:06:44.754Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T04:57:18.232Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 373,
+    "name": "salamence",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
     "types": [
-      "electric",
-      "steel"
+      "dragon",
+      "flying"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-09-26T00:06:44.754Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-26T04:57:18.232Z"
   },
   "pulls": [
+    {
+      "id": 373,
+      "name": "salamence",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T04:57:18.232Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -118,18 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-24T17:25:00.263Z"
-    },
-    {
-      "id": 436,
-      "name": "bronzor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-24T12:19:36.624Z"
     }
   ],
   "pokemon": {
@@ -473,6 +473,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T09:41:35.122Z",
       "lastPulledAt": "2026-09-17T09:41:35.122Z"
+    },
+    "373": {
+      "id": 373,
+      "name": "salamence",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T04:57:18.232Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T04:57:18.232Z",
+      "lastPulledAt": "2026-09-26T04:57:18.232Z"
     },
     "409": {
       "id": 409,
