@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-27T20:27:59.899Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-27T23:22:02.614Z",
   "lastPull": {
-    "id": 404,
-    "name": "luxio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "id": 946,
+    "name": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
     "types": [
-      "electric"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 363,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-27T20:27:59.899Z"
+    "pulledAt": "2026-09-27T23:22:02.614Z"
   },
   "pulls": [
+    {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-27T23:22:02.614Z"
+    },
     {
       "id": 404,
       "name": "luxio",
@@ -117,18 +130,6 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-09-26T13:57:14.362Z"
-    },
-    {
-      "id": 675,
-      "name": "pangoro",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
-      "types": [
-        "fighting",
-        "dark"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-26T09:49:16.202Z"
     }
   ],
   "pokemon": {
@@ -1203,6 +1204,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:40:03.160Z",
       "lastPulledAt": "2026-09-18T21:40:03.160Z"
+    },
+    "946": {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-27T23:22:02.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T23:22:02.614Z",
+      "lastPulledAt": "2026-09-27T23:22:02.614Z"
     },
     "954": {
       "id": 954,
