@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-27T07:01:42.503Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T13:00:02.621Z",
   "lastPull": {
-    "id": 386,
-    "name": "deoxys-normal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "id": 224,
+    "name": "octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-27T07:01:42.503Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-27T13:00:02.621Z"
   },
   "pulls": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-27T13:00:02.621Z"
+    },
     {
       "id": 386,
       "name": "deoxys-normal",
@@ -119,17 +130,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-26T00:06:44.754Z"
-    },
-    {
-      "id": 427,
-      "name": "buneary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-25T21:27:05.286Z"
     }
   ],
   "pokemon": {
@@ -360,10 +360,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-22T20:07:08.879Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:07:08.879Z",
-      "lastPulledAt": "2026-09-22T20:07:08.879Z"
+      "lastPulledAt": "2026-09-27T13:00:02.621Z"
     },
     "252": {
       "id": 252,
