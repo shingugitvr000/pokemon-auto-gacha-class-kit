@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T01:21:03.787Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T07:01:42.503Z",
   "lastPull": {
-    "id": 697,
-    "name": "tyrantrum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "id": 386,
+    "name": "deoxys-normal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
     "types": [
-      "rock",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T01:21:03.787Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-27T07:01:42.503Z"
   },
   "pulls": [
+    {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T07:01:42.503Z"
+    },
     {
       "id": 697,
       "name": "tyrantrum",
@@ -120,17 +130,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-25T21:27:05.286Z"
-    },
-    {
-      "id": 577,
-      "name": "solosis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-25T17:54:57.412Z"
     }
   ],
   "pokemon": {
@@ -506,6 +505,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T04:57:18.232Z",
       "lastPulledAt": "2026-09-26T04:57:18.232Z"
+    },
+    "386": {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T07:01:42.503Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T07:01:42.503Z",
+      "lastPulledAt": "2026-09-27T07:01:42.503Z"
     },
     "409": {
       "id": 409,
