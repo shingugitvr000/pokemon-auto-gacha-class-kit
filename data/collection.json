@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-26T22:59:27.026Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T01:21:03.787Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "normal",
-      "flying"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 479,
-    "grade": "R",
-    "pulledAt": "2026-09-26T22:59:27.026Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T01:21:03.787Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T01:21:03.787Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -119,18 +131,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-25T17:54:57.412Z"
-    },
-    {
-      "id": 1011,
-      "name": "dipplin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-25T12:58:42.091Z"
     }
   ],
   "pokemon": {
@@ -941,6 +941,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T07:07:02.066Z",
       "lastPulledAt": "2026-09-20T07:07:02.066Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T01:21:03.787Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T01:21:03.787Z",
+      "lastPulledAt": "2026-09-27T01:21:03.787Z"
     },
     "722": {
       "id": 722,
