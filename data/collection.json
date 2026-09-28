@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-28T08:36:29.763Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-28T17:01:59.021Z",
   "lastPull": {
-    "id": 145,
-    "name": "zapdos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "id": 783,
+    "name": "hakamo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
     "types": [
-      "electric",
-      "flying"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T08:36:29.763Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-28T17:01:59.021Z"
   },
   "pulls": [
+    {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-28T17:01:59.021Z"
+    },
     {
       "id": 145,
       "name": "zapdos",
@@ -119,17 +131,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-09-26T22:59:27.026Z"
-    },
-    {
-      "id": 762,
-      "name": "steenee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-26T20:12:43.726Z"
     }
   ],
   "pokemon": {
@@ -1111,6 +1112,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:25:00.263Z",
       "lastPulledAt": "2026-09-24T17:25:00.263Z"
+    },
+    "783": {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-28T17:01:59.021Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T17:01:59.021Z",
+      "lastPulledAt": "2026-09-28T17:01:59.021Z"
     },
     "801": {
       "id": 801,
