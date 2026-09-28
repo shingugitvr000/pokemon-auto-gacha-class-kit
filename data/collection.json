@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-27T23:22:02.614Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T01:56:11.891Z",
   "lastPull": {
-    "id": 946,
-    "name": "bramblin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "id": 567,
+    "name": "archeops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
     "types": [
-      "grass",
-      "ghost"
+      "rock",
+      "flying"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-27T23:22:02.614Z"
+    "totalStats": 567,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T01:56:11.891Z"
   },
   "pulls": [
+    {
+      "id": 567,
+      "name": "archeops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 567,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T01:56:11.891Z"
+    },
     {
       "id": 946,
       "name": "bramblin",
@@ -118,18 +130,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-26T17:43:21.216Z"
-    },
-    {
-      "id": 111,
-      "name": "rhyhorn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-09-26T13:57:14.362Z"
     }
   ],
   "pokemon": {
@@ -767,6 +767,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:57:34.493Z",
       "lastPulledAt": "2026-09-22T16:57:34.493Z"
+    },
+    "567": {
+      "id": 567,
+      "name": "archeops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 567,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T01:56:11.891Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T01:56:11.891Z",
+      "lastPulledAt": "2026-09-28T01:56:11.891Z"
     },
     "573": {
       "id": 573,
