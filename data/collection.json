@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T08:46:17.581Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-29T15:09:05.427Z",
   "lastPull": {
-    "id": 519,
-    "name": "pidove",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "id": 29,
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": [
-      "normal",
-      "flying"
+      "poison"
     ],
-    "totalStats": 264,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-29T08:46:17.581Z"
+    "pulledAt": "2026-09-29T15:09:05.427Z"
   },
   "pulls": [
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-29T15:09:05.427Z"
+    },
     {
       "id": 519,
       "name": "pidove",
@@ -120,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-27T17:41:57.367Z"
-    },
-    {
-      "id": 224,
-      "name": "octillery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-27T13:00:02.621Z"
     }
   ],
   "pokemon": {
@@ -165,6 +164,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:42:36.675Z",
       "lastPulledAt": "2026-09-26T22:59:27.026Z"
+    },
+    "29": {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-29T15:09:05.427Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T15:09:05.427Z",
+      "lastPulledAt": "2026-09-29T15:09:05.427Z"
     },
     "55": {
       "id": 55,
