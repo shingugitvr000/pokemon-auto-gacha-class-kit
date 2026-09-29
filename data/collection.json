@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-29T15:09:05.427Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-29T20:00:11.777Z",
   "lastPull": {
-    "id": 29,
-    "name": "nidoran-f",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "id": 770,
+    "name": "palossand",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
     "types": [
-      "poison"
+      "ghost",
+      "ground"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-29T15:09:05.427Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-29T20:00:11.777Z"
   },
   "pulls": [
+    {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-29T20:00:11.777Z"
+    },
     {
       "id": 29,
       "name": "nidoran-f",
@@ -118,18 +131,6 @@
       "totalStats": 363,
       "grade": "N",
       "pulledAt": "2026-09-27T20:27:59.899Z"
-    },
-    {
-      "id": 873,
-      "name": "frosmoth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
-      "types": [
-        "ice",
-        "bug"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-27T17:41:57.367Z"
     }
   ],
   "pokemon": {
@@ -1142,6 +1143,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T20:12:43.726Z",
       "lastPulledAt": "2026-09-26T20:12:43.726Z"
+    },
+    "770": {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-29T20:00:11.777Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T20:00:11.777Z",
+      "lastPulledAt": "2026-09-29T20:00:11.777Z"
     },
     "776": {
       "id": 776,
