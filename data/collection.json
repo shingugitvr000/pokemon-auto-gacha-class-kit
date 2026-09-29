@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 84,
-  "updatedAt": "2026-09-28T22:32:12.825Z",
+  "totalPulls": 85,
+  "updatedAt": "2026-09-29T02:18:22.718Z",
   "lastPull": {
-    "id": 853,
-    "name": "grapploct",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "fighting"
+      "poison",
+      "water"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-28T22:32:12.825Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-29T02:18:22.718Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-29T02:18:22.718Z"
+    },
     {
       "id": 853,
       "name": "grapploct",
@@ -117,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-27T07:01:42.503Z"
-    },
-    {
-      "id": 697,
-      "name": "tyrantrum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T01:21:03.787Z"
     }
   ],
   "pokemon": {
@@ -1001,6 +1002,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T07:07:02.066Z",
       "lastPulledAt": "2026-09-20T07:07:02.066Z"
+    },
+    "690": {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-29T02:18:22.718Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T02:18:22.718Z",
+      "lastPulledAt": "2026-09-29T02:18:22.718Z"
     },
     "697": {
       "id": 697,
