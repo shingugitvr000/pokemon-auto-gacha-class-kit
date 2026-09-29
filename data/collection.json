@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-29T02:18:22.718Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-29T08:46:17.581Z",
   "lastPull": {
-    "id": 690,
-    "name": "skrelp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "id": 519,
+    "name": "pidove",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
     "types": [
-      "poison",
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 320,
+    "totalStats": 264,
     "grade": "N",
-    "pulledAt": "2026-09-29T02:18:22.718Z"
+    "pulledAt": "2026-09-29T08:46:17.581Z"
   },
   "pulls": [
+    {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-09-29T08:46:17.581Z"
+    },
     {
       "id": 690,
       "name": "skrelp",
@@ -119,17 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-27T13:00:02.621Z"
-    },
-    {
-      "id": 386,
-      "name": "deoxys-normal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-27T07:01:42.503Z"
     }
   ],
   "pokemon": {
@@ -752,6 +753,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:21:13.535Z",
       "lastPulledAt": "2026-09-21T14:21:13.535Z"
+    },
+    "519": {
+      "id": 519,
+      "name": "pidove",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 264,
+      "grade": "N",
+      "pulledAt": "2026-09-29T08:46:17.581Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T08:46:17.581Z",
+      "lastPulledAt": "2026-09-29T08:46:17.581Z"
     },
     "520": {
       "id": 520,
