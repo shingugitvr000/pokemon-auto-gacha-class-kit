@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T08:56:19.643Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-09-30T15:50:36.363Z",
   "lastPull": {
-    "id": 500,
-    "name": "emboar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "id": 137,
+    "name": "porygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
     "types": [
-      "fire",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T08:56:19.643Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-09-30T15:50:36.363Z"
   },
   "pulls": [
+    {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T15:50:36.363Z"
+    },
     {
       "id": 500,
       "name": "emboar",
@@ -120,18 +130,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-28T17:01:59.021Z"
-    },
-    {
-      "id": 145,
-      "name": "zapdos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T08:36:29.763Z"
     }
   ],
   "pokemon": {
@@ -274,6 +272,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:31:20.679Z",
       "lastPulledAt": "2026-09-20T21:31:20.679Z"
+    },
+    "137": {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T15:50:36.363Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T15:50:36.363Z",
+      "lastPulledAt": "2026-09-30T15:50:36.363Z"
     },
     "142": {
       "id": 142,
