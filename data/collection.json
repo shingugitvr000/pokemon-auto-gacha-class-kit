@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-29T23:39:27.504Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-30T02:26:19.213Z",
   "lastPull": {
-    "id": 947,
-    "name": "brambleghast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "grass",
-      "ghost"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-29T23:39:27.504Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T02:26:19.213Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T02:26:19.213Z"
+    },
     {
       "id": 947,
       "name": "brambleghast",
@@ -120,18 +132,6 @@
       "totalStats": 567,
       "grade": "SR",
       "pulledAt": "2026-09-28T01:56:11.891Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-27T23:22:02.614Z"
     }
   ],
   "pokemon": {
@@ -1285,6 +1285,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T17:41:57.367Z",
       "lastPulledAt": "2026-09-27T17:41:57.367Z"
+    },
+    "880": {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T02:26:19.213Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T02:26:19.213Z",
+      "lastPulledAt": "2026-09-30T02:26:19.213Z"
     },
     "914": {
       "id": 914,
