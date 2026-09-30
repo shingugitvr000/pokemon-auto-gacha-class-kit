@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-09-30T15:50:36.363Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-09-30T20:44:05.753Z",
   "lastPull": {
-    "id": 137,
-    "name": "porygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-09-30T15:50:36.363Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T20:44:05.753Z"
   },
   "pulls": [
+    {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T20:44:05.753Z"
+    },
     {
       "id": 137,
       "name": "porygon",
@@ -118,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-28T22:32:12.825Z"
-    },
-    {
-      "id": 783,
-      "name": "hakamo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
-      "types": [
-        "dragon",
-        "fighting"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-28T17:01:59.021Z"
     }
   ],
   "pokemon": {
@@ -705,6 +704,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T11:35:36.564Z",
       "lastPulledAt": "2026-09-19T11:35:36.564Z"
+    },
+    "466": {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T20:44:05.753Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T20:44:05.753Z",
+      "lastPulledAt": "2026-09-30T20:44:05.753Z"
     },
     "469": {
       "id": 469,
