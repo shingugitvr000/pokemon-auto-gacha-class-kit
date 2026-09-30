@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T02:26:19.213Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T08:56:19.643Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "electric",
-      "dragon"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 505,
+    "totalStats": 528,
     "grade": "SR",
-    "pulledAt": "2026-09-30T02:26:19.213Z"
+    "pulledAt": "2026-09-30T08:56:19.643Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:56:19.643Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -120,18 +132,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-28T08:36:29.763Z"
-    },
-    {
-      "id": 567,
-      "name": "archeops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 567,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T01:56:11.891Z"
     }
   ],
   "pokemon": {
@@ -739,6 +739,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:08:58.474Z",
       "lastPulledAt": "2026-09-23T23:08:58.474Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:56:19.643Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T08:56:19.643Z",
+      "lastPulledAt": "2026-09-30T08:56:19.643Z"
     },
     "505": {
       "id": 505,
