@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T06:09:32.554Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-01T13:22:08.715Z",
   "lastPull": {
-    "id": 767,
-    "name": "wimpod",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "id": 81,
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "types": [
-      "bug",
-      "water"
+      "electric",
+      "steel"
     ],
-    "totalStats": 230,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-10-01T06:09:32.554Z"
+    "pulledAt": "2026-10-01T13:22:08.715Z"
   },
   "pulls": [
+    {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-01T13:22:08.715Z"
+    },
     {
       "id": 767,
       "name": "wimpod",
@@ -119,18 +131,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-29T15:09:05.427Z"
-    },
-    {
-      "id": 519,
-      "name": "pidove",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 264,
-      "grade": "N",
-      "pulledAt": "2026-09-29T08:46:17.581Z"
     }
   ],
   "pokemon": {
@@ -222,10 +222,10 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-26T00:06:44.754Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:06:44.754Z",
-      "lastPulledAt": "2026-09-26T00:06:44.754Z"
+      "lastPulledAt": "2026-10-01T13:22:08.715Z"
     },
     "111": {
       "id": 111,
