@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-01T18:59:40.588Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-01T23:07:04.302Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "fire"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 555,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-10-01T18:59:40.588Z"
+    "pulledAt": "2026-10-01T23:07:04.302Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T23:07:04.302Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -118,18 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-29T23:39:27.504Z"
-    },
-    {
-      "id": 770,
-      "name": "palossand",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
-      "types": [
-        "ghost",
-        "ground"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-29T20:00:11.777Z"
     }
   ],
   "pokemon": {
@@ -504,6 +505,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T18:29:57.422Z",
       "lastPulledAt": "2026-09-16T18:29:57.422Z"
+    },
+    "330": {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T23:07:04.302Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T23:07:04.302Z",
+      "lastPulledAt": "2026-10-01T23:07:04.302Z"
     },
     "338": {
       "id": 338,
