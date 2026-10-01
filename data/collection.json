@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-01T13:22:08.715Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-01T18:59:40.588Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "electric",
-      "steel"
+      "fire"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-10-01T13:22:08.715Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-10-01T18:59:40.588Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T18:59:40.588Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -120,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-29T20:00:11.777Z"
-    },
-    {
-      "id": 29,
-      "name": "nidoran-f",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-29T15:09:05.427Z"
     }
   ],
   "pokemon": {
@@ -210,6 +209,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:05:14.516Z",
       "lastPulledAt": "2026-09-18T19:05:14.516Z"
+    },
+    "59": {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T18:59:40.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T18:59:40.588Z",
+      "lastPulledAt": "2026-10-01T18:59:40.588Z"
     },
     "81": {
       "id": 81,
