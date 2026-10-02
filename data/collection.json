@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-02T19:56:37.253Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-02T23:42:05.835Z",
   "lastPull": {
-    "id": 96,
-    "name": "drowzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "id": 435,
+    "name": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
     "types": [
-      "psychic"
+      "poison",
+      "dark"
     ],
-    "totalStats": 328,
-    "grade": "N",
-    "pulledAt": "2026-10-02T19:56:37.253Z"
+    "totalStats": 479,
+    "grade": "R",
+    "pulledAt": "2026-10-02T23:42:05.835Z"
   },
   "pulls": [
+    {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-02T23:42:05.835Z"
+    },
     {
       "id": 96,
       "name": "drowzee",
@@ -117,17 +130,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-10-01T00:12:28.896Z"
-    },
-    {
-      "id": 466,
-      "name": "electivire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T20:44:05.753Z"
     }
   ],
   "pokemon": {
@@ -702,6 +704,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T21:27:05.286Z",
       "lastPulledAt": "2026-09-25T21:27:05.286Z"
+    },
+    "435": {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-02T23:42:05.835Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T23:42:05.835Z",
+      "lastPulledAt": "2026-10-02T23:42:05.835Z"
     },
     "436": {
       "id": 436,
