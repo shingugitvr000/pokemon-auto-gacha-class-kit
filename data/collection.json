@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-02T08:40:26.250Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-02T15:05:39.392Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 56,
+    "name": "mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-10-02T08:40:26.250Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-02T15:05:39.392Z"
   },
   "pulls": [
+    {
+      "id": 56,
+      "name": "mankey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-02T15:05:39.392Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -118,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-30T15:50:36.363Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T08:56:19.643Z"
     }
   ],
   "pokemon": {
@@ -221,10 +219,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-18T19:05:14.516Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:05:14.516Z",
-      "lastPulledAt": "2026-09-18T19:05:14.516Z"
+      "lastPulledAt": "2026-10-02T15:05:39.392Z"
     },
     "59": {
       "id": 59,
