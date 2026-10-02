@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-01T23:07:04.302Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T02:15:47.735Z",
   "lastPull": {
-    "id": 330,
-    "name": "flygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "id": 572,
+    "name": "minccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
     "types": [
-      "ground",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-01T23:07:04.302Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-02T02:15:47.735Z"
   },
   "pulls": [
+    {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:15:47.735Z"
+    },
     {
       "id": 330,
       "name": "flygon",
@@ -119,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-30T02:26:19.213Z"
-    },
-    {
-      "id": 947,
-      "name": "brambleghast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-29T23:39:27.504Z"
     }
   ],
   "pokemon": {
@@ -924,6 +922,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T01:56:11.891Z",
       "lastPulledAt": "2026-09-28T01:56:11.891Z"
+    },
+    "572": {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:15:47.735Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T02:15:47.735Z",
+      "lastPulledAt": "2026-10-02T02:15:47.735Z"
     },
     "573": {
       "id": 573,
