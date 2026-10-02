@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-02T02:15:47.735Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-02T08:40:26.250Z",
   "lastPull": {
-    "id": 572,
-    "name": "minccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-02T02:15:47.735Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-10-02T08:40:26.250Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-10-02T08:40:26.250Z"
+    },
     {
       "id": 572,
       "name": "minccino",
@@ -117,18 +130,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-30T08:56:19.643Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T02:26:19.213Z"
     }
   ],
   "pokemon": {
@@ -163,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:42:36.675Z",
       "lastPulledAt": "2026-09-26T22:59:27.026Z"
+    },
+    "22": {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-10-02T08:40:26.250Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T08:40:26.250Z",
+      "lastPulledAt": "2026-10-02T08:40:26.250Z"
     },
     "29": {
       "id": 29,
