@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-03T17:52:42.562Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-03T20:57:00.483Z",
   "lastPull": {
-    "id": 587,
-    "name": "emolga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
-      "electric",
-      "flying"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 428,
-    "grade": "R",
-    "pulledAt": "2026-10-03T17:52:42.562Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T20:57:00.483Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T20:57:00.483Z"
+    },
     {
       "id": 587,
       "name": "emolga",
@@ -117,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-02T02:15:47.735Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T23:07:04.302Z"
     }
   ],
   "pokemon": {
@@ -271,6 +271,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:06:44.754Z",
       "lastPulledAt": "2026-10-01T13:22:08.715Z"
+    },
+    "94": {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T20:57:00.483Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T20:57:00.483Z",
+      "lastPulledAt": "2026-10-03T20:57:00.483Z"
     },
     "96": {
       "id": 96,
