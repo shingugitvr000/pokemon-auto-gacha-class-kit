@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-03T08:30:42.633Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-03T13:54:35.939Z",
   "lastPull": {
-    "id": 110,
-    "name": "weezing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "id": 76,
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "types": [
-      "poison"
+      "rock",
+      "ground"
     ],
-    "totalStats": 490,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-03T08:30:42.633Z"
+    "pulledAt": "2026-10-03T13:54:35.939Z"
   },
   "pulls": [
+    {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-03T13:54:35.939Z"
+    },
     {
       "id": 110,
       "name": "weezing",
@@ -115,18 +128,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-01T18:59:40.588Z"
-    },
-    {
-      "id": 81,
-      "name": "magnemite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-10-01T13:22:08.715Z"
     }
   ],
   "pokemon": {
@@ -237,6 +238,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T18:59:40.588Z",
       "lastPulledAt": "2026-10-01T18:59:40.588Z"
+    },
+    "76": {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-03T13:54:35.939Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T13:54:35.939Z",
+      "lastPulledAt": "2026-10-03T13:54:35.939Z"
     },
     "81": {
       "id": 81,
