@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T13:54:35.939Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-03T17:52:42.562Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 587,
+    "name": "emolga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
     "types": [
-      "rock",
-      "ground"
+      "electric",
+      "flying"
     ],
-    "totalStats": 495,
+    "totalStats": 428,
     "grade": "R",
-    "pulledAt": "2026-10-03T13:54:35.939Z"
+    "pulledAt": "2026-10-03T17:52:42.562Z"
   },
   "pulls": [
+    {
+      "id": 587,
+      "name": "emolga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 428,
+      "grade": "R",
+      "pulledAt": "2026-10-03T17:52:42.562Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -117,17 +129,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-01T23:07:04.302Z"
-    },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T18:59:40.588Z"
     }
   ],
   "pokemon": {
@@ -1075,6 +1076,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:33:07.215Z",
       "lastPulledAt": "2026-09-22T01:33:07.215Z"
+    },
+    "587": {
+      "id": 587,
+      "name": "emolga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 428,
+      "grade": "R",
+      "pulledAt": "2026-10-03T17:52:42.562Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T17:52:42.562Z",
+      "lastPulledAt": "2026-10-03T17:52:42.562Z"
     },
     "596": {
       "id": 596,
