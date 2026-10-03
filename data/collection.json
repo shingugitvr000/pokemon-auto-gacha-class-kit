@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-03T20:57:00.483Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-03T23:44:03.574Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 700,
+    "name": "sylveon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
     "types": [
-      "ghost",
-      "poison"
+      "fairy"
     ],
-    "totalStats": 500,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-10-03T20:57:00.483Z"
+    "pulledAt": "2026-10-03T23:44:03.574Z"
   },
   "pulls": [
+    {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T23:44:03.574Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -118,17 +128,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-10-02T08:40:26.250Z"
-    },
-    {
-      "id": 572,
-      "name": "minccino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-02T02:15:47.735Z"
     }
   ],
   "pokemon": {
@@ -1297,6 +1296,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T01:21:03.787Z",
       "lastPulledAt": "2026-09-27T01:21:03.787Z"
+    },
+    "700": {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T23:44:03.574Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T23:44:03.574Z",
+      "lastPulledAt": "2026-10-03T23:44:03.574Z"
     },
     "722": {
       "id": 722,
