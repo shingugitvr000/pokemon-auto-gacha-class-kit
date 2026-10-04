@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-04T18:36:36.293Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-04T21:57:27.496Z",
   "lastPull": {
-    "id": 815,
-    "name": "cinderace",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "id": 742,
+    "name": "cutiefly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
     "types": [
-      "fire"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T18:36:36.293Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-10-04T21:57:27.496Z"
   },
   "pulls": [
+    {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-04T21:57:27.496Z"
+    },
     {
       "id": 815,
       "name": "cinderace",
@@ -117,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-03T08:30:42.633Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-03T02:23:43.245Z"
     }
   ],
   "pokemon": {
@@ -1405,6 +1407,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T16:25:52.488Z",
       "lastPulledAt": "2026-09-20T16:25:52.488Z"
+    },
+    "742": {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-04T21:57:27.496Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T21:57:27.496Z",
+      "lastPulledAt": "2026-10-04T21:57:27.496Z"
     },
     "750": {
       "id": 750,
