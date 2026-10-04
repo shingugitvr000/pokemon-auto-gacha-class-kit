@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-04T14:58:43.313Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-04T18:36:36.293Z",
   "lastPull": {
-    "id": 319,
-    "name": "sharpedo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "water",
-      "dark"
+      "fire"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-04T14:58:43.313Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T18:36:36.293Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:36:36.293Z"
+    },
     {
       "id": 319,
       "name": "sharpedo",
@@ -118,18 +128,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-03T02:23:43.245Z"
-    },
-    {
-      "id": 435,
-      "name": "skuntank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-10-02T23:42:05.835Z"
     }
   ],
   "pokemon": {
@@ -1548,6 +1546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T07:36:22.816Z",
       "lastPulledAt": "2026-09-25T07:36:22.816Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:36:36.293Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T18:36:36.293Z",
+      "lastPulledAt": "2026-10-04T18:36:36.293Z"
     },
     "832": {
       "id": 832,
