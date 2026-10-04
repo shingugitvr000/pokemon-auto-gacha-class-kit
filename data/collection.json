@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-03T23:44:03.574Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T02:53:09.156Z",
   "lastPull": {
-    "id": 700,
-    "name": "sylveon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "id": 264,
+    "name": "linoone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
     "types": [
-      "fairy"
+      "normal"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T23:44:03.574Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-04T02:53:09.156Z"
   },
   "pulls": [
+    {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-04T02:53:09.156Z"
+    },
     {
       "id": 700,
       "name": "sylveon",
@@ -116,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-02T15:05:39.392Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-10-02T08:40:26.250Z"
     }
   ],
   "pokemon": {
@@ -532,6 +531,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:25.190Z",
       "lastPulledAt": "2026-09-17T18:30:25.190Z"
+    },
+    "264": {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-04T02:53:09.156Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T02:53:09.156Z",
+      "lastPulledAt": "2026-10-04T02:53:09.156Z"
     },
     "267": {
       "id": 267,
