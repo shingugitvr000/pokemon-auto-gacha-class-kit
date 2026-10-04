@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-04T02:53:09.156Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-04T09:36:29.140Z",
   "lastPull": {
-    "id": 264,
-    "name": "linoone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "id": 521,
+    "name": "unfezant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 420,
+    "totalStats": 488,
     "grade": "R",
-    "pulledAt": "2026-10-04T02:53:09.156Z"
+    "pulledAt": "2026-10-04T09:36:29.140Z"
   },
   "pulls": [
+    {
+      "id": 521,
+      "name": "unfezant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-10-04T09:36:29.140Z"
+    },
     {
       "id": 264,
       "name": "linoone",
@@ -116,17 +129,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-10-02T19:56:37.253Z"
-    },
-    {
-      "id": 56,
-      "name": "mankey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-02T15:05:39.392Z"
     }
   ],
   "pokemon": {
@@ -998,6 +1000,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:37:21.252Z",
       "lastPulledAt": "2026-09-19T01:37:21.252Z"
+    },
+    "521": {
+      "id": 521,
+      "name": "unfezant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-10-04T09:36:29.140Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T09:36:29.140Z",
+      "lastPulledAt": "2026-10-04T09:36:29.140Z"
     },
     "538": {
       "id": 538,
