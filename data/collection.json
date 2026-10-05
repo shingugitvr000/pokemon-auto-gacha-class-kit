@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-05T00:46:39.730Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-05T06:19:55.898Z",
   "lastPull": {
-    "id": 202,
-    "name": "wobbuffet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "id": 420,
+    "name": "cherubi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
     "types": [
-      "psychic"
+      "grass"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-05T00:46:39.730Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-05T06:19:55.898Z"
   },
   "pulls": [
+    {
+      "id": 420,
+      "name": "cherubi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-05T06:19:55.898Z"
+    },
     {
       "id": 202,
       "name": "wobbuffet",
@@ -117,18 +128,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-10-03T17:52:42.562Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-03T13:54:35.939Z"
     }
   ],
   "pokemon": {
@@ -781,6 +780,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:22:06.397Z",
       "lastPulledAt": "2026-09-20T12:22:06.397Z"
+    },
+    "420": {
+      "id": 420,
+      "name": "cherubi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-05T06:19:55.898Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T06:19:55.898Z",
+      "lastPulledAt": "2026-10-05T06:19:55.898Z"
     },
     "427": {
       "id": 427,
