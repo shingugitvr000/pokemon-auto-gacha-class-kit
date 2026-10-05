@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-04T21:57:27.496Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T00:46:39.730Z",
   "lastPull": {
-    "id": 742,
-    "name": "cutiefly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "id": 202,
+    "name": "wobbuffet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
     "types": [
-      "bug",
-      "fairy"
+      "psychic"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-10-04T21:57:27.496Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-05T00:46:39.730Z"
   },
   "pulls": [
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-05T00:46:39.730Z"
+    },
     {
       "id": 742,
       "name": "cutiefly",
@@ -119,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-03T13:54:35.939Z"
-    },
-    {
-      "id": 110,
-      "name": "weezing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-03T08:30:42.633Z"
     }
   ],
   "pokemon": {
@@ -442,6 +441,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T21:40:07.060Z",
       "lastPulledAt": "2026-09-19T19:35:45.513Z"
+    },
+    "202": {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-05T00:46:39.730Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T00:46:39.730Z",
+      "lastPulledAt": "2026-10-05T00:46:39.730Z"
     },
     "207": {
       "id": 207,
