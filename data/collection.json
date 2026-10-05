@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-05T06:19:55.898Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-05T15:04:56.933Z",
   "lastPull": {
-    "id": 420,
-    "name": "cherubi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "id": 613,
+    "name": "cubchoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
     "types": [
-      "grass"
+      "ice"
     ],
-    "totalStats": 275,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-05T06:19:55.898Z"
+    "pulledAt": "2026-10-05T15:04:56.933Z"
   },
   "pulls": [
+    {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-05T15:04:56.933Z"
+    },
     {
       "id": 420,
       "name": "cherubi",
@@ -116,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-03T20:57:00.483Z"
-    },
-    {
-      "id": 587,
-      "name": "emolga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 428,
-      "grade": "R",
-      "pulledAt": "2026-10-03T17:52:42.562Z"
     }
   ],
   "pokemon": {
@@ -1200,6 +1199,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T01:26:25.779Z",
       "lastPulledAt": "2026-09-24T01:26:25.779Z"
+    },
+    "613": {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-05T15:04:56.933Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T15:04:56.933Z",
+      "lastPulledAt": "2026-10-05T15:04:56.933Z"
     },
     "617": {
       "id": 617,
