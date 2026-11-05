@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-11-05T09:08:06.434Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-11-05T11:38:58.432Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 535,
+    "name": "tympole",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
     "types": [
-      "dark",
-      "ice"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-05T09:08:06.434Z"
+    "totalStats": 294,
+    "grade": "N",
+    "pulledAt": "2026-11-05T11:38:58.432Z"
   },
   "pulls": [
+    {
+      "id": 535,
+      "name": "tympole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 294,
+      "grade": "N",
+      "pulledAt": "2026-11-05T11:38:58.432Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -117,18 +127,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-04T14:58:43.313Z"
-    },
-    {
-      "id": 521,
-      "name": "unfezant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-10-04T09:36:29.140Z"
     }
   ],
   "pokemon": {
@@ -1094,6 +1092,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T09:36:29.140Z",
       "lastPulledAt": "2026-10-04T09:36:29.140Z"
+    },
+    "535": {
+      "id": 535,
+      "name": "tympole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 294,
+      "grade": "N",
+      "pulledAt": "2026-11-05T11:38:58.432Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T11:38:58.432Z",
+      "lastPulledAt": "2026-11-05T11:38:58.432Z"
     },
     "538": {
       "id": 538,
