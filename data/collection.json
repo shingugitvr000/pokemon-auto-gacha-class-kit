@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 119,
-  "updatedAt": "2026-10-06T02:17:19.561Z",
+  "totalPulls": 120,
+  "updatedAt": "2026-11-05T09:08:06.434Z",
   "lastPull": {
-    "id": 398,
-    "name": "staraptor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "id": 461,
+    "name": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
     "types": [
-      "normal",
-      "flying"
+      "dark",
+      "ice"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-06T02:17:19.561Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T09:08:06.434Z"
   },
   "pulls": [
+    {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T09:08:06.434Z"
+    },
     {
       "id": 398,
       "name": "staraptor",
@@ -117,17 +129,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-10-04T09:36:29.140Z"
-    },
-    {
-      "id": 264,
-      "name": "linoone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-04T02:53:09.156Z"
     }
   ],
   "pokemon": {
@@ -905,6 +906,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T11:35:36.564Z",
       "lastPulledAt": "2026-09-19T11:35:36.564Z"
+    },
+    "461": {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T09:08:06.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T09:08:06.434Z",
+      "lastPulledAt": "2026-11-05T09:08:06.434Z"
     },
     "466": {
       "id": 466,
