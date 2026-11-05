@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-11-05T11:38:58.432Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-11-05T19:01:27.260Z",
   "lastPull": {
-    "id": 535,
-    "name": "tympole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "id": 588,
+    "name": "karrablast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 294,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-11-05T11:38:58.432Z"
+    "pulledAt": "2026-11-05T19:01:27.260Z"
   },
   "pulls": [
+    {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-11-05T19:01:27.260Z"
+    },
     {
       "id": 535,
       "name": "tympole",
@@ -115,18 +126,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-04T18:36:36.293Z"
-    },
-    {
-      "id": 319,
-      "name": "sharpedo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-04T14:58:43.313Z"
     }
   ],
   "pokemon": {
@@ -1230,6 +1229,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T17:52:42.562Z",
       "lastPulledAt": "2026-10-03T17:52:42.562Z"
+    },
+    "588": {
+      "id": 588,
+      "name": "karrablast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-11-05T19:01:27.260Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T19:01:27.260Z",
+      "lastPulledAt": "2026-11-05T19:01:27.260Z"
     },
     "596": {
       "id": 596,
