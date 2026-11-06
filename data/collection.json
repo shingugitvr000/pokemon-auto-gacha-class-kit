@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-11-06T00:13:13.857Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-11-06T07:01:13.452Z",
   "lastPull": {
-    "id": 29,
-    "name": "nidoran-f",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "id": 475,
+    "name": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
     "types": [
-      "poison"
+      "psychic",
+      "fighting"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-11-06T00:13:13.857Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T07:01:13.452Z"
   },
   "pulls": [
+    {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T07:01:13.452Z"
+    },
     {
       "id": 29,
       "name": "nidoran-f",
@@ -114,18 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-05T00:46:39.730Z"
-    },
-    {
-      "id": 742,
-      "name": "cutiefly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-04T21:57:27.496Z"
     }
   ],
   "pokemon": {
@@ -962,10 +963,10 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-10-01T00:12:28.896Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T00:12:28.896Z",
-      "lastPulledAt": "2026-10-01T00:12:28.896Z"
+      "lastPulledAt": "2026-11-06T07:01:13.452Z"
     },
     "480": {
       "id": 480,
