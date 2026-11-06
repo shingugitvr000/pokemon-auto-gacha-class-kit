@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-11-05T19:01:27.260Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-11-06T00:13:13.857Z",
   "lastPull": {
-    "id": 588,
-    "name": "karrablast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "id": 29,
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": [
-      "bug"
+      "poison"
     ],
-    "totalStats": 315,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-11-05T19:01:27.260Z"
+    "pulledAt": "2026-11-06T00:13:13.857Z"
   },
   "pulls": [
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-06T00:13:13.857Z"
+    },
     {
       "id": 588,
       "name": "karrablast",
@@ -115,17 +126,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-10-04T21:57:27.496Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T18:36:36.293Z"
     }
   ],
   "pokemon": {
@@ -187,10 +187,10 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-29T15:09:05.427Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T15:09:05.427Z",
-      "lastPulledAt": "2026-09-29T15:09:05.427Z"
+      "lastPulledAt": "2026-11-06T00:13:13.857Z"
     },
     "55": {
       "id": 55,
