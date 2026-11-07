@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-11-07T13:36:38.209Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-11-07T18:18:59.089Z",
   "lastPull": {
-    "id": 133,
-    "name": "eevee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "id": 556,
+    "name": "maractus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-11-07T13:36:38.209Z"
+    "totalStats": 461,
+    "grade": "R",
+    "pulledAt": "2026-11-07T18:18:59.089Z"
   },
   "pulls": [
+    {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-11-07T18:18:59.089Z"
+    },
     {
       "id": 133,
       "name": "eevee",
@@ -115,18 +126,6 @@
       "totalStats": 294,
       "grade": "N",
       "pulledAt": "2026-11-05T11:38:58.432Z"
-    },
-    {
-      "id": 461,
-      "name": "weavile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-05T09:08:06.434Z"
     }
   ],
   "pokemon": {
@@ -1183,6 +1182,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:57:34.493Z",
       "lastPulledAt": "2026-09-22T16:57:34.493Z"
+    },
+    "556": {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-11-07T18:18:59.089Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T18:18:59.089Z",
+      "lastPulledAt": "2026-11-07T18:18:59.089Z"
     },
     "567": {
       "id": 567,
