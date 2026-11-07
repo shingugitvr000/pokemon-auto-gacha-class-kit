@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-11-06T20:50:11.414Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-11-07T00:49:14.744Z",
   "lastPull": {
-    "id": 755,
-    "name": "morelull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "id": 282,
+    "name": "gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
     "types": [
-      "grass",
+      "psychic",
       "fairy"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-11-06T20:50:11.414Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T00:49:14.744Z"
   },
   "pulls": [
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T00:49:14.744Z"
+    },
     {
       "id": 755,
       "name": "morelull",
@@ -117,17 +129,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-05T22:00:15.323Z"
-    },
-    {
-      "id": 613,
-      "name": "cubchoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-05T15:04:56.933Z"
     }
   ],
   "pokemon": {
@@ -594,6 +595,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:48:17.456Z",
       "lastPulledAt": "2026-09-19T14:48:17.456Z"
+    },
+    "282": {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T00:49:14.744Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T00:49:14.744Z",
+      "lastPulledAt": "2026-11-07T00:49:14.744Z"
     },
     "306": {
       "id": 306,
