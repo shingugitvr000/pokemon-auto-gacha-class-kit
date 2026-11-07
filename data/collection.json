@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-11-07T06:43:37.835Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-11-07T13:36:38.209Z",
   "lastPull": {
-    "id": 507,
-    "name": "herdier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "id": 133,
+    "name": "eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
     "types": [
       "normal"
     ],
-    "totalStats": 370,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-11-07T06:43:37.835Z"
+    "pulledAt": "2026-11-07T13:36:38.209Z"
   },
   "pulls": [
+    {
+      "id": 133,
+      "name": "eevee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-07T13:36:38.209Z"
+    },
     {
       "id": 507,
       "name": "herdier",
@@ -116,18 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-05T09:08:06.434Z"
-    },
-    {
-      "id": 398,
-      "name": "staraptor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-06T02:17:19.561Z"
     }
   ],
   "pokemon": {
@@ -348,6 +347,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:36:38.287Z",
       "lastPulledAt": "2026-09-18T23:36:38.287Z"
+    },
+    "133": {
+      "id": 133,
+      "name": "eevee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-07T13:36:38.209Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T13:36:38.209Z",
+      "lastPulledAt": "2026-11-07T13:36:38.209Z"
     },
     "134": {
       "id": 134,
