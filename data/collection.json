@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-11-08T07:53:54.061Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-11-08T14:58:26.456Z",
   "lastPull": {
-    "id": 403,
-    "name": "shinx",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "id": 998,
+    "name": "baxcalibur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
     "types": [
-      "electric"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 263,
-    "grade": "N",
-    "pulledAt": "2026-11-08T07:53:54.061Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-08T14:58:26.456Z"
   },
   "pulls": [
+    {
+      "id": 998,
+      "name": "baxcalibur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T14:58:26.456Z"
+    },
     {
       "id": 403,
       "name": "shinx",
@@ -114,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-06T14:59:37.830Z"
-    },
-    {
-      "id": 475,
-      "name": "gallade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
-      "types": [
-        "psychic",
-        "fighting"
-      ],
-      "totalStats": 518,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T07:01:13.452Z"
     }
   ],
   "pokemon": {
@@ -2024,6 +2025,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:30:56.550Z",
       "lastPulledAt": "2026-09-23T20:30:56.550Z"
+    },
+    "998": {
+      "id": 998,
+      "name": "baxcalibur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T14:58:26.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T14:58:26.456Z",
+      "lastPulledAt": "2026-11-08T14:58:26.456Z"
     },
     "1011": {
       "id": 1011,
