@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-11-08T01:26:35.864Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-11-08T07:53:54.061Z",
   "lastPull": {
-    "id": 505,
-    "name": "watchog",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "id": 403,
+    "name": "shinx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-08T01:26:35.864Z"
+    "totalStats": 263,
+    "grade": "N",
+    "pulledAt": "2026-11-08T07:53:54.061Z"
   },
   "pulls": [
+    {
+      "id": 403,
+      "name": "shinx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 263,
+      "grade": "N",
+      "pulledAt": "2026-11-08T07:53:54.061Z"
+    },
     {
       "id": 505,
       "name": "watchog",
@@ -115,17 +126,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-06T07:01:13.452Z"
-    },
-    {
-      "id": 29,
-      "name": "nidoran-f",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-11-06T00:13:13.857Z"
     }
   ],
   "pokemon": {
@@ -794,6 +794,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T22:07:30.661Z",
       "lastPulledAt": "2026-11-07T22:07:30.661Z"
+    },
+    "403": {
+      "id": 403,
+      "name": "shinx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 263,
+      "grade": "N",
+      "pulledAt": "2026-11-08T07:53:54.061Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T07:53:54.061Z",
+      "lastPulledAt": "2026-11-08T07:53:54.061Z"
     },
     "404": {
       "id": 404,
