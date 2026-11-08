@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-11-08T19:31:19.639Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-11-08T23:08:44.273Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "poison",
-      "normal"
+      "ground"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-11-08T19:31:19.639Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T23:08:44.273Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T23:08:44.273Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -116,18 +126,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-07T00:49:14.744Z"
-    },
-    {
-      "id": 755,
-      "name": "morelull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-06T20:50:11.414Z"
     }
   ],
   "pokemon": {
@@ -1645,10 +1643,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T16:17:15.497Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T16:17:15.497Z",
-      "lastPulledAt": "2026-09-23T01:25:15.571Z"
+      "lastPulledAt": "2026-11-08T23:08:44.273Z"
     },
     "755": {
       "id": 755,
