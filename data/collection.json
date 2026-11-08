@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-11-07T22:07:30.661Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-11-08T01:26:35.864Z",
   "lastPull": {
-    "id": 402,
-    "name": "kricketune",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "id": 505,
+    "name": "watchog",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 384,
-    "grade": "N",
-    "pulledAt": "2026-11-07T22:07:30.661Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-08T01:26:35.864Z"
   },
   "pulls": [
+    {
+      "id": 505,
+      "name": "watchog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-08T01:26:35.864Z"
+    },
     {
       "id": 402,
       "name": "kricketune",
@@ -115,17 +126,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-11-06T00:13:13.857Z"
-    },
-    {
-      "id": 588,
-      "name": "karrablast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-11-05T19:01:27.260Z"
     }
   ],
   "pokemon": {
@@ -1085,10 +1085,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-19T17:34:13.190Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:34:13.190Z",
-      "lastPulledAt": "2026-09-19T17:34:13.190Z"
+      "lastPulledAt": "2026-11-08T01:26:35.864Z"
     },
     "507": {
       "id": 507,
