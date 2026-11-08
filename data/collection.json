@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-11-08T14:58:26.456Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-11-08T19:31:19.639Z",
   "lastPull": {
-    "id": 998,
-    "name": "baxcalibur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
-      "dragon",
-      "ice"
+      "poison",
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-08T14:58:26.456Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-08T19:31:19.639Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:31:19.639Z"
+    },
     {
       "id": 998,
       "name": "baxcalibur",
@@ -116,17 +128,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-06T20:50:11.414Z"
-    },
-    {
-      "id": 367,
-      "name": "huntail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-06T14:59:37.830Z"
     }
   ],
   "pokemon": {
@@ -1929,6 +1930,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:40:03.160Z",
       "lastPulledAt": "2026-09-18T21:40:03.160Z"
+    },
+    "944": {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:31:19.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T19:31:19.639Z",
+      "lastPulledAt": "2026-11-08T19:31:19.639Z"
     },
     "946": {
       "id": 946,
