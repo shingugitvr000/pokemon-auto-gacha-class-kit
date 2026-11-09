@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-11-08T23:08:44.273Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-11-09T02:41:28.083Z",
   "lastPull": {
-    "id": 750,
-    "name": "mudsdale",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "id": 601,
+    "name": "klinklang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
     "types": [
-      "ground"
+      "steel"
     ],
-    "totalStats": 500,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-11-08T23:08:44.273Z"
+    "pulledAt": "2026-11-09T02:41:28.083Z"
   },
   "pulls": [
+    {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:41:28.083Z"
+    },
     {
       "id": 750,
       "name": "mudsdale",
@@ -114,18 +125,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-11-07T06:43:37.835Z"
-    },
-    {
-      "id": 282,
-      "name": "gardevoir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 518,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T00:49:14.744Z"
     }
   ],
   "pokemon": {
@@ -1366,6 +1365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T01:26:25.779Z",
       "lastPulledAt": "2026-09-24T01:26:25.779Z"
+    },
+    "601": {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:41:28.083Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T02:41:28.083Z",
+      "lastPulledAt": "2026-11-09T02:41:28.083Z"
     },
     "613": {
       "id": 613,
