@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-11-09T10:26:32.381Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-11-09T21:00:13.940Z",
   "lastPull": {
-    "id": 47,
-    "name": "parasect",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "bug",
-      "grass"
+      "psychic"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-09T10:26:32.381Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-11-09T21:00:13.940Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-11-09T21:00:13.940Z"
+    },
     {
       "id": 47,
       "name": "parasect",
@@ -116,17 +126,6 @@
       "totalStats": 461,
       "grade": "R",
       "pulledAt": "2026-11-07T18:18:59.089Z"
-    },
-    {
-      "id": 133,
-      "name": "eevee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-11-07T13:36:38.209Z"
     }
   ],
   "pokemon": {
@@ -1316,10 +1315,10 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-03T02:23:43.245Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T02:23:43.245Z",
-      "lastPulledAt": "2026-10-03T02:23:43.245Z"
+      "lastPulledAt": "2026-11-09T21:00:13.940Z"
     },
     "580": {
       "id": 580,
