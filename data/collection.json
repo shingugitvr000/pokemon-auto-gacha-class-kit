@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-11-10T11:46:42.805Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-11-10T18:55:15.647Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 297,
+    "name": "hariyama",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
     "types": [
-      "bug"
+      "fighting"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-10T11:46:42.805Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-11-10T18:55:15.647Z"
   },
   "pulls": [
+    {
+      "id": 297,
+      "name": "hariyama",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-10T18:55:15.647Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -116,17 +127,6 @@
       "totalStats": 263,
       "grade": "N",
       "pulledAt": "2026-11-08T07:53:54.061Z"
-    },
-    {
-      "id": 505,
-      "name": "watchog",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-08T01:26:35.864Z"
     }
   ],
   "pokemon": {
@@ -640,6 +640,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T00:49:14.744Z",
       "lastPulledAt": "2026-11-07T00:49:14.744Z"
+    },
+    "297": {
+      "id": 297,
+      "name": "hariyama",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-10T18:55:15.647Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T18:55:15.647Z",
+      "lastPulledAt": "2026-11-10T18:55:15.647Z"
     },
     "306": {
       "id": 306,
