@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-11-10T18:55:15.647Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-11-10T23:58:38.888Z",
   "lastPull": {
-    "id": 297,
-    "name": "hariyama",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "id": 202,
+    "name": "wobbuffet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
     "types": [
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 474,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-11-10T18:55:15.647Z"
+    "pulledAt": "2026-11-10T23:58:38.888Z"
   },
   "pulls": [
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-10T23:58:38.888Z"
+    },
     {
       "id": 297,
       "name": "hariyama",
@@ -116,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-08T14:58:26.456Z"
-    },
-    {
-      "id": 403,
-      "name": "shinx",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 263,
-      "grade": "N",
-      "pulledAt": "2026-11-08T07:53:54.061Z"
     }
   ],
   "pokemon": {
@@ -481,10 +481,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-05T00:46:39.730Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T00:46:39.730Z",
-      "lastPulledAt": "2026-10-05T00:46:39.730Z"
+      "lastPulledAt": "2026-11-10T23:58:38.888Z"
     },
     "207": {
       "id": 207,
