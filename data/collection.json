@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-11-10T03:32:56.645Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-11-10T11:46:42.805Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "water",
-      "dragon"
+      "bug"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-10T03:32:56.645Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-10T11:46:42.805Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-10T11:46:42.805Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -117,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-08T01:26:35.864Z"
-    },
-    {
-      "id": 402,
-      "name": "kricketune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-11-07T22:07:30.661Z"
     }
   ],
   "pokemon": {
@@ -1414,6 +1413,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T15:04:56.933Z",
       "lastPulledAt": "2026-10-05T15:04:56.933Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-10T11:46:42.805Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T11:46:42.805Z",
+      "lastPulledAt": "2026-11-10T11:46:42.805Z"
     },
     "617": {
       "id": 617,
