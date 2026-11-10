@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-11-09T21:00:13.940Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-11-10T03:32:56.645Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 882,
+    "name": "dracovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
     "types": [
-      "psychic"
+      "water",
+      "dragon"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-11-09T21:00:13.940Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T03:32:56.645Z"
   },
   "pulls": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T03:32:56.645Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -115,17 +128,6 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-11-07T22:07:30.661Z"
-    },
-    {
-      "id": 556,
-      "name": "maractus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 461,
-      "grade": "R",
-      "pulledAt": "2026-11-07T18:18:59.089Z"
     }
   ],
   "pokemon": {
@@ -1912,6 +1914,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T02:26:19.213Z",
       "lastPulledAt": "2026-09-30T02:26:19.213Z"
+    },
+    "882": {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T03:32:56.645Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T03:32:56.645Z",
+      "lastPulledAt": "2026-11-10T03:32:56.645Z"
     },
     "914": {
       "id": 914,
