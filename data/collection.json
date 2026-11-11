@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 143,
-  "updatedAt": "2026-11-10T23:58:38.888Z",
+  "totalPulls": 144,
+  "updatedAt": "2026-11-11T05:58:01.563Z",
   "lastPull": {
-    "id": 202,
-    "name": "wobbuffet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "id": 828,
+    "name": "thievul",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
     "types": [
-      "psychic"
+      "dark"
     ],
-    "totalStats": 405,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-10T23:58:38.888Z"
+    "pulledAt": "2026-11-11T05:58:01.563Z"
   },
   "pulls": [
+    {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-11T05:58:01.563Z"
+    },
     {
       "id": 202,
       "name": "wobbuffet",
@@ -115,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-08T19:31:19.639Z"
-    },
-    {
-      "id": 998,
-      "name": "baxcalibur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-08T14:58:26.456Z"
     }
   ],
   "pokemon": {
@@ -1866,6 +1865,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:36:36.293Z",
       "lastPulledAt": "2026-10-04T18:36:36.293Z"
+    },
+    "828": {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-11T05:58:01.563Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T05:58:01.563Z",
+      "lastPulledAt": "2026-11-11T05:58:01.563Z"
     },
     "832": {
       "id": 832,
