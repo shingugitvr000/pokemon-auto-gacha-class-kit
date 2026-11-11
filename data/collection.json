@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-11-11T14:03:24.933Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-11-11T21:24:07.733Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 265,
+    "name": "wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
     "types": [
-      "dark",
-      "ice"
+      "bug"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T14:03:24.933Z"
+    "totalStats": 195,
+    "grade": "N",
+    "pulledAt": "2026-11-11T21:24:07.733Z"
   },
   "pulls": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-11T21:24:07.733Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -116,17 +126,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-09T02:41:28.083Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T23:08:44.273Z"
     }
   ],
   "pokemon": {
@@ -592,6 +591,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T02:53:09.156Z",
       "lastPulledAt": "2026-10-04T02:53:09.156Z"
+    },
+    "265": {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-11T21:24:07.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T21:24:07.733Z",
+      "lastPulledAt": "2026-11-11T21:24:07.733Z"
     },
     "267": {
       "id": 267,
