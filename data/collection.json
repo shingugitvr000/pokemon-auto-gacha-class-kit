@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-11-12T10:12:04.179Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-11-12T18:25:38.311Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "water",
-      "ghost"
+      "electric"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-12T10:12:04.179Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-11-12T18:25:38.311Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-12T18:25:38.311Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -116,17 +126,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-10T03:32:56.645Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-09T21:00:13.940Z"
     }
   ],
   "pokemon": {
@@ -686,6 +685,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T18:29:57.422Z",
       "lastPulledAt": "2026-09-16T18:29:57.422Z"
+    },
+    "309": {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-12T18:25:38.311Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T18:25:38.311Z",
+      "lastPulledAt": "2026-11-12T18:25:38.311Z"
     },
     "319": {
       "id": 319,
