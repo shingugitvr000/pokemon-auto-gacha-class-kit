@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-11-12T18:25:38.311Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-11-12T23:49:07.824Z",
   "lastPull": {
-    "id": 309,
-    "name": "electrike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "id": 24,
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "types": [
-      "electric"
+      "poison"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-11-12T18:25:38.311Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-11-12T23:49:07.824Z"
   },
   "pulls": [
+    {
+      "id": 24,
+      "name": "arbok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-12T23:49:07.824Z"
+    },
     {
       "id": 309,
       "name": "electrike",
@@ -114,18 +125,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-10T11:46:42.805Z"
-    },
-    {
-      "id": 882,
-      "name": "dracovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T03:32:56.645Z"
     }
   ],
   "pokemon": {
@@ -176,6 +175,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:40:26.250Z",
       "lastPulledAt": "2026-10-02T08:40:26.250Z"
+    },
+    "24": {
+      "id": 24,
+      "name": "arbok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-12T23:49:07.824Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T23:49:07.824Z",
+      "lastPulledAt": "2026-11-12T23:49:07.824Z"
     },
     "29": {
       "id": 29,
