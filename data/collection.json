@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-11-12T23:49:07.824Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-11-13T04:14:16.286Z",
   "lastPull": {
-    "id": 24,
-    "name": "arbok",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "id": 663,
+    "name": "talonflame",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
     "types": [
-      "poison"
+      "fire",
+      "flying"
     ],
-    "totalStats": 448,
+    "totalStats": 499,
     "grade": "R",
-    "pulledAt": "2026-11-12T23:49:07.824Z"
+    "pulledAt": "2026-11-13T04:14:16.286Z"
   },
   "pulls": [
+    {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-11-13T04:14:16.286Z"
+    },
     {
       "id": 24,
       "name": "arbok",
@@ -114,17 +127,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-10T18:55:15.647Z"
-    },
-    {
-      "id": 616,
-      "name": "shelmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-10T11:46:42.805Z"
     }
   ],
   "pokemon": {
@@ -1581,6 +1583,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:28:56.555Z",
       "lastPulledAt": "2026-09-17T14:28:56.555Z"
+    },
+    "663": {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-11-13T04:14:16.286Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T04:14:16.286Z",
+      "lastPulledAt": "2026-11-13T04:14:16.286Z"
     },
     "674": {
       "id": 674,
