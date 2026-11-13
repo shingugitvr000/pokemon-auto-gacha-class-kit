@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-11-13T04:14:16.286Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-11-13T12:22:43.696Z",
   "lastPull": {
-    "id": 663,
-    "name": "talonflame",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "id": 397,
+    "name": "staravia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
     "types": [
-      "fire",
+      "normal",
       "flying"
     ],
-    "totalStats": 499,
-    "grade": "R",
-    "pulledAt": "2026-11-13T04:14:16.286Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-13T12:22:43.696Z"
   },
   "pulls": [
+    {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:22:43.696Z"
+    },
     {
       "id": 663,
       "name": "talonflame",
@@ -116,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-10T23:58:38.888Z"
-    },
-    {
-      "id": 297,
-      "name": "hariyama",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-10T18:55:15.647Z"
     }
   ],
   "pokemon": {
@@ -840,6 +841,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T07:01:42.503Z",
       "lastPulledAt": "2026-09-27T07:01:42.503Z"
+    },
+    "397": {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:22:43.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T12:22:43.696Z",
+      "lastPulledAt": "2026-11-13T12:22:43.696Z"
     },
     "398": {
       "id": 398,
