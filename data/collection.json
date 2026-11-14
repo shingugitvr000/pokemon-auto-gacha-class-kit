@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-11-14T19:28:22.054Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-11-14T23:19:03.505Z",
   "lastPull": {
-    "id": 961,
-    "name": "wugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "id": 816,
+    "name": "sobble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
     "types": [
       "water"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-11-14T19:28:22.054Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-14T23:19:03.505Z"
   },
   "pulls": [
+    {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-14T23:19:03.505Z"
+    },
     {
       "id": 961,
       "name": "wugtrio",
@@ -115,18 +126,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-11-12T18:25:38.311Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T10:12:04.179Z"
     }
   ],
   "pokemon": {
@@ -1989,6 +1988,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:36:36.293Z",
       "lastPulledAt": "2026-10-04T18:36:36.293Z"
+    },
+    "816": {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-14T23:19:03.505Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T23:19:03.505Z",
+      "lastPulledAt": "2026-11-14T23:19:03.505Z"
     },
     "828": {
       "id": 828,
