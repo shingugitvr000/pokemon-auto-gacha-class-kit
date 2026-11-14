@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-11-14T14:31:15.727Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-11-14T19:28:22.054Z",
   "lastPull": {
-    "id": 124,
-    "name": "jynx",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "ice",
-      "psychic"
+      "water"
     ],
-    "totalStats": 455,
+    "totalStats": 425,
     "grade": "R",
-    "pulledAt": "2026-11-14T14:31:15.727Z"
+    "pulledAt": "2026-11-14T19:28:22.054Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:22.054Z"
+    },
     {
       "id": 124,
       "name": "jynx",
@@ -117,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-12T10:12:04.179Z"
-    },
-    {
-      "id": 891,
-      "name": "kubfu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-11-12T02:27:27.473Z"
     }
   ],
   "pokemon": {
@@ -2240,6 +2239,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:41:53.250Z",
       "lastPulledAt": "2026-09-24T20:41:53.250Z"
+    },
+    "961": {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:22.054Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T19:28:22.054Z",
+      "lastPulledAt": "2026-11-14T19:28:22.054Z"
     },
     "983": {
       "id": 983,
