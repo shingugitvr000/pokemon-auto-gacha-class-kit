@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-11-14T00:51:04.353Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-11-14T07:30:32.028Z",
   "lastPull": {
-    "id": 739,
-    "name": "crabrawler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "id": 78,
+    "name": "rapidash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
     "types": [
-      "fighting"
+      "fire"
     ],
-    "totalStats": 338,
-    "grade": "N",
-    "pulledAt": "2026-11-14T00:51:04.353Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T07:30:32.028Z"
   },
   "pulls": [
+    {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T07:30:32.028Z"
+    },
     {
       "id": 739,
       "name": "crabrawler",
@@ -115,18 +126,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-11-11T21:24:07.733Z"
-    },
-    {
-      "id": 461,
-      "name": "weavile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T14:03:24.933Z"
     }
   ],
   "pokemon": {
@@ -284,6 +283,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T13:54:35.939Z",
       "lastPulledAt": "2026-10-03T13:54:35.939Z"
+    },
+    "78": {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T07:30:32.028Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T07:30:32.028Z",
+      "lastPulledAt": "2026-11-14T07:30:32.028Z"
     },
     "81": {
       "id": 81,
