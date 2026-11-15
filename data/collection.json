@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-11-15T17:25:51.948Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-11-15T22:01:20.473Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 741,
+    "name": "oricorio-baile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
     "types": [
-      "fighting"
+      "fire",
+      "flying"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-11-15T17:25:51.948Z"
+    "totalStats": 476,
+    "grade": "R",
+    "pulledAt": "2026-11-15T22:01:20.473Z"
   },
   "pulls": [
+    {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:01:20.473Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -115,18 +128,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-13T19:57:51.610Z"
-    },
-    {
-      "id": 397,
-      "name": "staravia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-13T12:22:43.696Z"
     }
   ],
   "pokemon": {
@@ -1848,6 +1849,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T16:25:52.488Z",
       "lastPulledAt": "2026-09-20T16:25:52.488Z"
+    },
+    "741": {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:01:20.473Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T22:01:20.473Z",
+      "lastPulledAt": "2026-11-15T22:01:20.473Z"
     },
     "742": {
       "id": 742,
