@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-11-14T23:19:03.505Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-11-15T02:54:10.518Z",
   "lastPull": {
-    "id": 816,
-    "name": "sobble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "water"
+      "bug",
+      "poison"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-14T23:19:03.505Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-15T02:54:10.518Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-15T02:54:10.518Z"
+    },
     {
       "id": 816,
       "name": "sobble",
@@ -115,17 +128,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-11-12T23:49:07.824Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-12T18:25:38.311Z"
     }
   ],
   "pokemon": {
@@ -500,6 +502,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:51:22.599Z",
       "lastPulledAt": "2026-09-21T22:51:22.599Z"
+    },
+    "168": {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-15T02:54:10.518Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T02:54:10.518Z",
+      "lastPulledAt": "2026-11-15T02:54:10.518Z"
     },
     "196": {
       "id": 196,
