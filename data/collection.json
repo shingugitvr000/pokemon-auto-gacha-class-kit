@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-11-16T09:36:40.929Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-11-16T19:52:21.401Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 913,
+    "name": "quaxwell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 328,
-    "grade": "N",
-    "pulledAt": "2026-11-16T09:36:40.929Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-16T19:52:21.401Z"
   },
   "pulls": [
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-16T19:52:21.401Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -117,17 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-14T14:31:15.727Z"
-    },
-    {
-      "id": 78,
-      "name": "rapidash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T07:30:32.028Z"
     }
   ],
   "pokemon": {
@@ -2238,6 +2238,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-12T10:12:04.179Z",
       "lastPulledAt": "2026-11-12T10:12:04.179Z"
+    },
+    "913": {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-16T19:52:21.401Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T19:52:21.401Z",
+      "lastPulledAt": "2026-11-16T19:52:21.401Z"
     },
     "914": {
       "id": 914,
