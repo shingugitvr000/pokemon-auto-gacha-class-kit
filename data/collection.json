@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-11-15T22:01:20.473Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-11-16T02:01:13.047Z",
   "lastPull": {
-    "id": 741,
-    "name": "oricorio-baile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "id": 624,
+    "name": "pawniard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
     "types": [
-      "fire",
-      "flying"
+      "dark",
+      "steel"
     ],
-    "totalStats": 476,
-    "grade": "R",
-    "pulledAt": "2026-11-15T22:01:20.473Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-16T02:01:13.047Z"
   },
   "pulls": [
+    {
+      "id": 624,
+      "name": "pawniard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-16T02:01:13.047Z"
+    },
     {
       "id": 741,
       "name": "oricorio-baile",
@@ -117,17 +129,6 @@
       "totalStats": 338,
       "grade": "N",
       "pulledAt": "2026-11-14T00:51:04.353Z"
-    },
-    {
-      "id": 575,
-      "name": "gothorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-13T19:57:51.610Z"
     }
   ],
   "pokemon": {
@@ -1613,6 +1614,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:16:03.726Z",
       "lastPulledAt": "2026-09-21T07:16:03.726Z"
+    },
+    "624": {
+      "id": 624,
+      "name": "pawniard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-16T02:01:13.047Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T02:01:13.047Z",
+      "lastPulledAt": "2026-11-16T02:01:13.047Z"
     },
     "625": {
       "id": 625,
