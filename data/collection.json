@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-11-17T11:39:59.795Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-11-17T20:03:23.561Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 893,
+    "name": "zarude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
     "types": [
-      "water",
-      "dark"
+      "dark",
+      "grass"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T11:39:59.795Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-17T20:03:23.561Z"
   },
   "pulls": [
+    {
+      "id": 893,
+      "name": "zarude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-17T20:03:23.561Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -118,17 +130,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-15T02:54:10.518Z"
-    },
-    {
-      "id": 816,
-      "name": "sobble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-14T23:19:03.505Z"
     }
   ],
   "pokemon": {
@@ -2239,6 +2240,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-12T02:27:27.473Z",
       "lastPulledAt": "2026-11-12T02:27:27.473Z"
+    },
+    "893": {
+      "id": 893,
+      "name": "zarude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-17T20:03:23.561Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T20:03:23.561Z",
+      "lastPulledAt": "2026-11-17T20:03:23.561Z"
     },
     "902": {
       "id": 902,
