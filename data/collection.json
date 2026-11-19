@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-11-19T01:11:32.675Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-11-19T08:54:14.733Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 275,
+    "name": "shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
     "types": [
-      "normal"
+      "grass",
+      "dark"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-11-19T01:11:32.675Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-19T08:54:14.733Z"
   },
   "pulls": [
+    {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-19T08:54:14.733Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -115,18 +128,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-11-16T09:36:40.929Z"
-    },
-    {
-      "id": 624,
-      "name": "pawniard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-16T02:01:13.047Z"
     }
   ],
   "pokemon": {
@@ -716,6 +717,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:48:17.456Z",
       "lastPulledAt": "2026-09-19T14:48:17.456Z"
+    },
+    "275": {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-19T08:54:14.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T08:54:14.733Z",
+      "lastPulledAt": "2026-11-19T08:54:14.733Z"
     },
     "282": {
       "id": 282,
