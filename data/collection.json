@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-11-18T19:04:49.933Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-11-19T01:11:32.675Z",
   "lastPull": {
-    "id": 945,
-    "name": "grafaiai",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+    "id": 190,
+    "name": "aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
     "types": [
-      "poison",
       "normal"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-18T19:04:49.933Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-11-19T01:11:32.675Z"
   },
   "pulls": [
+    {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-19T01:11:32.675Z"
+    },
     {
       "id": 945,
       "name": "grafaiai",
@@ -117,18 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-16T02:01:13.047Z"
-    },
-    {
-      "id": 741,
-      "name": "oricorio-baile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-11-15T22:01:20.473Z"
     }
   ],
   "pokemon": {
@@ -519,6 +517,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T02:54:10.518Z",
       "lastPulledAt": "2026-11-15T02:54:10.518Z"
+    },
+    "190": {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-19T01:11:32.675Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T01:11:32.675Z",
+      "lastPulledAt": "2026-11-19T01:11:32.675Z"
     },
     "196": {
       "id": 196,
