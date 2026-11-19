@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-11-19T08:54:14.733Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-11-19T18:08:49.979Z",
   "lastPull": {
-    "id": 275,
-    "name": "shiftry",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "id": 175,
+    "name": "togepi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
     "types": [
-      "grass",
-      "dark"
+      "fairy"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-19T08:54:14.733Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-11-19T18:08:49.979Z"
   },
   "pulls": [
+    {
+      "id": 175,
+      "name": "togepi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-11-19T18:08:49.979Z"
+    },
     {
       "id": 275,
       "name": "shiftry",
@@ -117,17 +127,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-16T19:52:21.401Z"
-    },
-    {
-      "id": 529,
-      "name": "drilbur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-11-16T09:36:40.929Z"
     }
   ],
   "pokemon": {
@@ -518,6 +517,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T02:54:10.518Z",
       "lastPulledAt": "2026-11-15T02:54:10.518Z"
+    },
+    "175": {
+      "id": 175,
+      "name": "togepi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-11-19T18:08:49.979Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T18:08:49.979Z",
+      "lastPulledAt": "2026-11-19T18:08:49.979Z"
     },
     "190": {
       "id": 190,
