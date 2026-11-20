@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-11-20T00:38:31.489Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-11-20T07:47:43.716Z",
   "lastPull": {
-    "id": 524,
-    "name": "roggenrola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "id": 592,
+    "name": "frillish-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
     "types": [
-      "rock"
+      "water",
+      "ghost"
     ],
-    "totalStats": 280,
+    "totalStats": 335,
     "grade": "N",
-    "pulledAt": "2026-11-20T00:38:31.489Z"
+    "pulledAt": "2026-11-20T07:47:43.716Z"
   },
   "pulls": [
+    {
+      "id": 592,
+      "name": "frillish-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-20T07:47:43.716Z"
+    },
     {
       "id": 524,
       "name": "roggenrola",
@@ -116,17 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-17T11:39:59.795Z"
-    },
-    {
-      "id": 974,
-      "name": "cetoddle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 334,
-      "grade": "N",
-      "pulledAt": "2026-11-17T02:51:51.963Z"
     }
   ],
   "pokemon": {
@@ -1612,6 +1614,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-05T19:01:27.260Z",
       "lastPulledAt": "2026-11-05T19:01:27.260Z"
+    },
+    "592": {
+      "id": 592,
+      "name": "frillish-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-20T07:47:43.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T07:47:43.716Z",
+      "lastPulledAt": "2026-11-20T07:47:43.716Z"
     },
     "596": {
       "id": 596,
