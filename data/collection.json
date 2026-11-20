@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-11-20T16:27:36.344Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-11-20T22:46:35.402Z",
   "lastPull": {
-    "id": 543,
-    "name": "venipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "id": 228,
+    "name": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
     "types": [
-      "bug",
-      "poison"
+      "dark",
+      "fire"
     ],
-    "totalStats": 260,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-20T16:27:36.344Z"
+    "pulledAt": "2026-11-20T22:46:35.402Z"
   },
   "pulls": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-20T22:46:35.402Z"
+    },
     {
       "id": 543,
       "name": "venipede",
@@ -117,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-18T02:24:46.225Z"
-    },
-    {
-      "id": 893,
-      "name": "zarude",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
-      "types": [
-        "dark",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-17T20:03:23.561Z"
     }
   ],
   "pokemon": {
@@ -640,6 +640,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:07:08.879Z",
       "lastPulledAt": "2026-09-27T13:00:02.621Z"
+    },
+    "228": {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-20T22:46:35.402Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T22:46:35.402Z",
+      "lastPulledAt": "2026-11-20T22:46:35.402Z"
     },
     "252": {
       "id": 252,
