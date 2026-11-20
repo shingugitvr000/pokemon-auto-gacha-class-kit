@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 176,
-  "updatedAt": "2026-11-20T07:47:43.716Z",
+  "totalPulls": 177,
+  "updatedAt": "2026-11-20T16:27:36.344Z",
   "lastPull": {
-    "id": 592,
-    "name": "frillish-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "id": 543,
+    "name": "venipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
     "types": [
-      "water",
-      "ghost"
+      "bug",
+      "poison"
     ],
-    "totalStats": 335,
+    "totalStats": 260,
     "grade": "N",
-    "pulledAt": "2026-11-20T07:47:43.716Z"
+    "pulledAt": "2026-11-20T16:27:36.344Z"
   },
   "pulls": [
+    {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-20T16:27:36.344Z"
+    },
     {
       "id": 592,
       "name": "frillish-male",
@@ -117,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-17T20:03:23.561Z"
-    },
-    {
-      "id": 658,
-      "name": "greninja",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T11:39:59.795Z"
     }
   ],
   "pokemon": {
@@ -1461,6 +1461,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:57:34.493Z",
       "lastPulledAt": "2026-09-22T16:57:34.493Z"
+    },
+    "543": {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-20T16:27:36.344Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T16:27:36.344Z",
+      "lastPulledAt": "2026-11-20T16:27:36.344Z"
     },
     "556": {
       "id": 556,
