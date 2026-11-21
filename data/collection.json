@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-11-21T03:33:47.550Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-11-21T11:47:04.675Z",
   "lastPull": {
-    "id": 668,
-    "name": "pyroar-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "id": 139,
+    "name": "omastar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
     "types": [
-      "fire",
-      "normal"
+      "rock",
+      "water"
     ],
-    "totalStats": 507,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T03:33:47.550Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-21T11:47:04.675Z"
   },
   "pulls": [
+    {
+      "id": 139,
+      "name": "omastar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-21T11:47:04.675Z"
+    },
     {
       "id": 668,
       "name": "pyroar-male",
@@ -119,17 +131,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-18T19:04:49.933Z"
-    },
-    {
-      "id": 604,
-      "name": "eelektross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T10:37:10.606Z"
     }
   ],
   "pokemon": {
@@ -457,6 +458,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T15:50:36.363Z",
       "lastPulledAt": "2026-09-30T15:50:36.363Z"
+    },
+    "139": {
+      "id": 139,
+      "name": "omastar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-21T11:47:04.675Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T11:47:04.675Z",
+      "lastPulledAt": "2026-11-21T11:47:04.675Z"
     },
     "142": {
       "id": 142,
