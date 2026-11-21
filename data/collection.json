@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-11-21T11:47:04.675Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-11-21T18:18:04.156Z",
   "lastPull": {
-    "id": 139,
-    "name": "omastar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "id": 161,
+    "name": "sentret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
     "types": [
-      "rock",
-      "water"
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-21T11:47:04.675Z"
+    "totalStats": 215,
+    "grade": "N",
+    "pulledAt": "2026-11-21T18:18:04.156Z"
   },
   "pulls": [
+    {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-11-21T18:18:04.156Z"
+    },
     {
       "id": 139,
       "name": "omastar",
@@ -119,18 +129,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-19T01:11:32.675Z"
-    },
-    {
-      "id": 945,
-      "name": "grafaiai",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
-      "types": [
-        "poison",
-        "normal"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-18T19:04:49.933Z"
     }
   ],
   "pokemon": {
@@ -506,6 +504,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T08:36:29.763Z",
       "lastPulledAt": "2026-09-28T08:36:29.763Z"
+    },
+    "161": {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-11-21T18:18:04.156Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T18:18:04.156Z",
+      "lastPulledAt": "2026-11-21T18:18:04.156Z"
     },
     "162": {
       "id": 162,
