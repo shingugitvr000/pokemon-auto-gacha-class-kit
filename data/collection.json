@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-11-21T23:29:47.408Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-11-22T03:26:40.063Z",
   "lastPull": {
-    "id": 106,
-    "name": "hitmonlee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
-      "fighting"
+      "dark",
+      "fire"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-21T23:29:47.408Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T03:26:40.063Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T03:26:40.063Z"
+    },
     {
       "id": 106,
       "name": "hitmonlee",
@@ -117,18 +130,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-11-19T18:08:49.979Z"
-    },
-    {
-      "id": 275,
-      "name": "shiftry",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-19T08:54:14.733Z"
     }
   ],
   "pokemon": {
@@ -2708,6 +2709,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T14:58:26.456Z",
       "lastPulledAt": "2026-11-08T14:58:26.456Z"
+    },
+    "1004": {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T03:26:40.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T03:26:40.063Z",
+      "lastPulledAt": "2026-11-22T03:26:40.063Z"
     },
     "1011": {
       "id": 1011,
