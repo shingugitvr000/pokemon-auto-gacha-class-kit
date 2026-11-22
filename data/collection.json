@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-11-22T11:54:26.201Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-11-22T19:26:08.021Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 970,
+    "name": "glimmora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
     "types": [
-      "electric"
+      "rock",
+      "poison"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-11-22T11:54:26.201Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T19:26:08.021Z"
   },
   "pulls": [
+    {
+      "id": 970,
+      "name": "glimmora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T19:26:08.021Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -118,17 +131,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-20T07:47:43.716Z"
-    },
-    {
-      "id": 524,
-      "name": "roggenrola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-20T00:38:31.489Z"
     }
   ],
   "pokemon": {
@@ -2644,6 +2646,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-14T19:28:22.054Z",
       "lastPulledAt": "2026-11-14T19:28:22.054Z"
+    },
+    "970": {
+      "id": 970,
+      "name": "glimmora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T19:26:08.021Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T19:26:08.021Z",
+      "lastPulledAt": "2026-11-22T19:26:08.021Z"
     },
     "974": {
       "id": 974,
