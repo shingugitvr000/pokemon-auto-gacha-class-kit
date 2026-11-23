@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-11-22T19:26:08.021Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-11-23T00:26:09.345Z",
   "lastPull": {
-    "id": 970,
-    "name": "glimmora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    "id": 686,
+    "name": "inkay",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
     "types": [
-      "rock",
-      "poison"
+      "dark",
+      "psychic"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T19:26:08.021Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-11-23T00:26:09.345Z"
   },
   "pulls": [
+    {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-23T00:26:09.345Z"
+    },
     {
       "id": 970,
       "name": "glimmora",
@@ -119,18 +131,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-20T16:27:36.344Z"
-    },
-    {
-      "id": 592,
-      "name": "frillish-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-20T07:47:43.716Z"
     }
   ],
   "pokemon": {
@@ -2021,6 +2021,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T07:07:02.066Z",
       "lastPulledAt": "2026-09-20T07:07:02.066Z"
+    },
+    "686": {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-23T00:26:09.345Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T00:26:09.345Z",
+      "lastPulledAt": "2026-11-23T00:26:09.345Z"
     },
     "690": {
       "id": 690,
