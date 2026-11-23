@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-11-23T00:26:09.345Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-11-23T08:05:32.025Z",
   "lastPull": {
-    "id": 686,
-    "name": "inkay",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "id": 553,
+    "name": "krookodile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
     "types": [
-      "dark",
-      "psychic"
+      "ground",
+      "dark"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-11-23T00:26:09.345Z"
+    "totalStats": 519,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T08:05:32.025Z"
   },
   "pulls": [
+    {
+      "id": 553,
+      "name": "krookodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 519,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T08:05:32.025Z"
+    },
     {
       "id": 686,
       "name": "inkay",
@@ -119,18 +131,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-20T22:46:35.402Z"
-    },
-    {
-      "id": 543,
-      "name": "venipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-11-20T16:27:36.344Z"
     }
   ],
   "pokemon": {
@@ -1556,6 +1556,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-20T16:27:36.344Z",
       "lastPulledAt": "2026-11-20T16:27:36.344Z"
+    },
+    "553": {
+      "id": 553,
+      "name": "krookodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 519,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T08:05:32.025Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T08:05:32.025Z",
+      "lastPulledAt": "2026-11-23T08:05:32.025Z"
     },
     "556": {
       "id": 556,
