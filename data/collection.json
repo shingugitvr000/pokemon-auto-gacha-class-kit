@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-11-24T04:51:16.503Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-11-24T15:40:52.495Z",
   "lastPull": {
-    "id": 985,
-    "name": "scream-tail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    "id": 837,
+    "name": "rolycoly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
     "types": [
-      "fairy",
-      "psychic"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T04:51:16.503Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-11-24T15:40:52.495Z"
   },
   "pulls": [
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-11-24T15:40:52.495Z"
+    },
     {
       "id": 985,
       "name": "scream-tail",
@@ -119,18 +129,6 @@
       "totalStats": 215,
       "grade": "N",
       "pulledAt": "2026-11-21T18:18:04.156Z"
-    },
-    {
-      "id": 139,
-      "name": "omastar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-21T11:47:04.675Z"
     }
   ],
   "pokemon": {
@@ -2412,6 +2410,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:45:02.918Z",
       "lastPulledAt": "2026-09-17T23:45:02.918Z"
+    },
+    "837": {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-11-24T15:40:52.495Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T15:40:52.495Z",
+      "lastPulledAt": "2026-11-24T15:40:52.495Z"
     },
     "853": {
       "id": 853,
