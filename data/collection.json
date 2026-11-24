@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-11-23T20:11:04.102Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-11-24T04:51:16.503Z",
   "lastPull": {
-    "id": 607,
-    "name": "litwick",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "id": 985,
+    "name": "scream-tail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
     "types": [
-      "ghost",
-      "fire"
+      "fairy",
+      "psychic"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-11-23T20:11:04.102Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T04:51:16.503Z"
   },
   "pulls": [
+    {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T04:51:16.503Z"
+    },
     {
       "id": 607,
       "name": "litwick",
@@ -119,18 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-21T11:47:04.675Z"
-    },
-    {
-      "id": 668,
-      "name": "pyroar-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
-      "types": [
-        "fire",
-        "normal"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T03:33:47.550Z"
     }
   ],
   "pokemon": {
@@ -2753,10 +2753,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-18T06:41:53.476Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:41:53.476Z",
-      "lastPulledAt": "2026-09-18T06:41:53.476Z"
+      "lastPulledAt": "2026-11-24T04:51:16.503Z"
     },
     "990": {
       "id": 990,
