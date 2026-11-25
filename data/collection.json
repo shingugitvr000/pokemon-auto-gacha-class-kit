@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-11-25T00:10:16.595Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-11-25T08:42:36.172Z",
   "lastPull": {
-    "id": 545,
-    "name": "scolipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "id": 75,
+    "name": "graveler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
     "types": [
-      "bug",
-      "poison"
+      "rock",
+      "ground"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-25T00:10:16.595Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-11-25T08:42:36.172Z"
   },
   "pulls": [
+    {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-25T08:42:36.172Z"
+    },
     {
       "id": 545,
       "name": "scolipede",
@@ -120,17 +132,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-22T03:26:40.063Z"
-    },
-    {
-      "id": 106,
-      "name": "hitmonlee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-21T23:29:47.408Z"
     }
   ],
   "pokemon": {
@@ -272,6 +273,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T18:59:40.588Z",
       "lastPulledAt": "2026-10-01T18:59:40.588Z"
+    },
+    "75": {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-25T08:42:36.172Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T08:42:36.172Z",
+      "lastPulledAt": "2026-11-25T08:42:36.172Z"
     },
     "76": {
       "id": 76,
