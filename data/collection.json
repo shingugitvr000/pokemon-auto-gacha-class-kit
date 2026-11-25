@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-11-25T08:42:36.172Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-11-25T18:51:48.446Z",
   "lastPull": {
-    "id": 75,
-    "name": "graveler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "id": 658,
+    "name": "greninja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
     "types": [
-      "rock",
-      "ground"
+      "water",
+      "dark"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-11-25T08:42:36.172Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-25T18:51:48.446Z"
   },
   "pulls": [
+    {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T18:51:48.446Z"
+    },
     {
       "id": 75,
       "name": "graveler",
@@ -120,18 +132,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-22T11:54:26.201Z"
-    },
-    {
-      "id": 1004,
-      "name": "chi-yu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T03:26:40.063Z"
     }
   ],
   "pokemon": {
@@ -1988,10 +1988,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-17T11:39:59.795Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T11:39:59.795Z",
-      "lastPulledAt": "2026-11-17T11:39:59.795Z"
+      "lastPulledAt": "2026-11-25T18:51:48.446Z"
     },
     "662": {
       "id": 662,
