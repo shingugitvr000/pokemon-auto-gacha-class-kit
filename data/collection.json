@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-11-24T15:40:52.495Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-11-25T00:10:16.595Z",
   "lastPull": {
-    "id": 837,
-    "name": "rolycoly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "id": 545,
+    "name": "scolipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
     "types": [
-      "rock"
+      "bug",
+      "poison"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-11-24T15:40:52.495Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-25T00:10:16.595Z"
   },
   "pulls": [
+    {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-25T00:10:16.595Z"
+    },
     {
       "id": 837,
       "name": "rolycoly",
@@ -118,17 +131,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-21T23:29:47.408Z"
-    },
-    {
-      "id": 161,
-      "name": "sentret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 215,
-      "grade": "N",
-      "pulledAt": "2026-11-21T18:18:04.156Z"
     }
   ],
   "pokemon": {
@@ -1554,6 +1556,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-20T16:27:36.344Z",
       "lastPulledAt": "2026-11-20T16:27:36.344Z"
+    },
+    "545": {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-25T00:10:16.595Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T00:10:16.595Z",
+      "lastPulledAt": "2026-11-25T00:10:16.595Z"
     },
     "553": {
       "id": 553,
