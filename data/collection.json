@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-11-25T18:51:48.446Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-11-26T02:07:14.776Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 422,
+    "name": "shellos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
     "types": [
-      "water",
-      "dark"
+      "water"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-25T18:51:48.446Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-11-26T02:07:14.776Z"
   },
   "pulls": [
+    {
+      "id": 422,
+      "name": "shellos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-26T02:07:14.776Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -121,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-22T19:26:08.021Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-22T11:54:26.201Z"
     }
   ],
   "pokemon": {
@@ -1169,6 +1168,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T06:19:55.898Z",
       "lastPulledAt": "2026-10-05T06:19:55.898Z"
+    },
+    "422": {
+      "id": 422,
+      "name": "shellos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-26T02:07:14.776Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T02:07:14.776Z",
+      "lastPulledAt": "2026-11-26T02:07:14.776Z"
     },
     "427": {
       "id": 427,
