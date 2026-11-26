@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-11-26T02:07:14.776Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-11-26T10:53:21.566Z",
   "lastPull": {
-    "id": 422,
-    "name": "shellos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "id": 749,
+    "name": "mudbray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
     "types": [
-      "water"
+      "ground"
     ],
-    "totalStats": 325,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-11-26T02:07:14.776Z"
+    "pulledAt": "2026-11-26T10:53:21.566Z"
   },
   "pulls": [
+    {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-26T10:53:21.566Z"
+    },
     {
       "id": 422,
       "name": "shellos",
@@ -119,18 +130,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-23T00:26:09.345Z"
-    },
-    {
-      "id": 970,
-      "name": "glimmora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T19:26:08.021Z"
     }
   ],
   "pokemon": {
@@ -2242,6 +2241,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T21:57:27.496Z",
       "lastPulledAt": "2026-10-04T21:57:27.496Z"
+    },
+    "749": {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-26T10:53:21.566Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T10:53:21.566Z",
+      "lastPulledAt": "2026-11-26T10:53:21.566Z"
     },
     "750": {
       "id": 750,
