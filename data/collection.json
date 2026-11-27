@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-11-27T11:58:47.727Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-11-27T21:05:15.746Z",
   "lastPull": {
-    "id": 905,
-    "name": "enamorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "id": 456,
+    "name": "finneon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
     "types": [
-      "fairy",
-      "flying"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-27T11:58:47.727Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-27T21:05:15.746Z"
   },
   "pulls": [
+    {
+      "id": 456,
+      "name": "finneon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-27T21:05:15.746Z"
+    },
     {
       "id": 905,
       "name": "enamorus-incarnate",
@@ -119,18 +129,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-11-24T15:40:52.495Z"
-    },
-    {
-      "id": 985,
-      "name": "scream-tail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-      "types": [
-        "fairy",
-        "psychic"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-24T04:51:16.503Z"
     }
   ],
   "pokemon": {
@@ -1292,6 +1290,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T10:38:52.310Z",
       "lastPulledAt": "2026-11-15T10:38:52.310Z"
+    },
+    "456": {
+      "id": 456,
+      "name": "finneon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-27T21:05:15.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T21:05:15.746Z",
+      "lastPulledAt": "2026-11-27T21:05:15.746Z"
     },
     "458": {
       "id": 458,
