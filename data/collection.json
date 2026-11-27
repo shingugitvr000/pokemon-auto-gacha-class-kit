@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-11-26T20:03:53.340Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-11-27T02:50:21.740Z",
   "lastPull": {
-    "id": 547,
-    "name": "whimsicott",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "grass",
-      "fairy"
+      "poison",
+      "water"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-26T20:03:53.340Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-27T02:50:21.740Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-27T02:50:21.740Z"
+    },
     {
       "id": 547,
       "name": "whimsicott",
@@ -119,18 +131,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-11-23T20:11:04.102Z"
-    },
-    {
-      "id": 553,
-      "name": "krookodile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 519,
-      "grade": "SR",
-      "pulledAt": "2026-11-23T08:05:32.025Z"
     }
   ],
   "pokemon": {
@@ -2144,10 +2144,10 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-29T02:18:22.718Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T02:18:22.718Z",
-      "lastPulledAt": "2026-09-29T02:18:22.718Z"
+      "lastPulledAt": "2026-11-27T02:50:21.740Z"
     },
     "697": {
       "id": 697,
