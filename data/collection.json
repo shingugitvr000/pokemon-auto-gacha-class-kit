@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-11-27T21:05:15.746Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-11-28T03:17:20.373Z",
   "lastPull": {
-    "id": 456,
-    "name": "finneon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "id": 703,
+    "name": "carbink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
     "types": [
-      "water"
+      "rock",
+      "fairy"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-27T21:05:15.746Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-28T03:17:20.373Z"
   },
   "pulls": [
+    {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T03:17:20.373Z"
+    },
     {
       "id": 456,
       "name": "finneon",
@@ -118,17 +131,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-25T00:10:16.595Z"
-    },
-    {
-      "id": 837,
-      "name": "rolycoly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-11-24T15:40:52.495Z"
     }
   ],
   "pokemon": {
@@ -2192,6 +2194,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T23:44:03.574Z",
       "lastPulledAt": "2026-10-03T23:44:03.574Z"
+    },
+    "703": {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T03:17:20.373Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T03:17:20.373Z",
+      "lastPulledAt": "2026-11-28T03:17:20.373Z"
     },
     "722": {
       "id": 722,
